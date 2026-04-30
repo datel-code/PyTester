@@ -1,0 +1,4 @@
+INPUT=\\ESKW210614\Tab_BatchTesting\Reference\NewReferenceIn\Create-DrugsSupp 
+FILTER=*.pdf
+REFERENCE=\\ESKW210614\Tab_BatchTesting\Reference\Create-DrugsSupp 
+TASK=..\Render500

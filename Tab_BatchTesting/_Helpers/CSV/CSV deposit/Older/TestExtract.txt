@@ -1,0 +1,1 @@
+RECOGNIZE;\\PRASRV01\Tab_BatchTesting\Source\Extract\0479_23753_COM_DW_Bx.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Vertical Dual Declaration;

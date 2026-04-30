@@ -1,0 +1,1237 @@
+--- 2019-07-01  8:00:00 
+--- Staring script... 
+Batch UpdateAllPlugins started. 
+  
+--- 2019-07-01 08:00:01.15 
+Checking servers... 
+Checking presence of h:\DeskPack18_A5\buildnumber.txt 
+Servers seem to be connected. 
+Checking if Illustrator is running... 
+Checking if Illustrator is running. 1... 
+--- 2019-07-01 08:00:04.27 
+ 
+Copying plugins... 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\NDL Kernel 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\NDL Kernel 
+
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers 
+
+	    Newer     		  317440	h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers\AIUnit_WAI23r.aip
+	    Newer     		  176128	h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers\DynamicMarksTester_WAI23r.aip
+	    Newer     		  154624	h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers\DynamicTablesTester_WAI23r.aip
+	    Newer     		  311808	h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers\PLSTester_WAI23r.aip
+	    Newer     		  420352	h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers\TIFFExportTester_WAI23r.aip
+	    Newer     		  170496	h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers\TrappingTester_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Trapping 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Trapping 
+
+	    Newer     		  711168	h:\DeskPack18_A5\AI\Win_AI23\Esko\Trapping\Trapping_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Viewer 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Viewer 
+
+	    Newer     		  369664	h:\DeskPack18_A5\AI\Win_AI23\Esko\Viewer\Compare_WAI23r.aip
+	    Newer     		  707072	h:\DeskPack18_A5\AI\Win_AI23\Esko\Viewer\NDLViewer_WAI23r.aip
+	    Newer     		  759296	h:\DeskPack18_A5\AI\Win_AI23\Esko\Viewer\Viewer_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Tables 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Tables 
+
+	    Newer     		   3.2 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Tables\DynamicTables_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Marks 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Marks 
+
+	    Newer     		   4.0 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Marks\DynamicMarks_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Content 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Content 
+
+	    Newer     		   4.2 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Content\DynamicContent_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Barcodes 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Barcodes 
+
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Dynamic Marks Core 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Dynamic Marks Core 
+
+	    Newer     		   1.0 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Dynamic Marks Core\MarksCore_WAI23r.aip
+--- Copied. 
+Skipping ai-cut...
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\ArtBrowser 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\ArtBrowser 
+
+	    Newer     		  536064	h:\DeskPack18_A5\AI\Win_AI23\Esko\ArtBrowser\ArtBrowser_WAI23r.aip
+--- Copied. 
+Skipping boostX...
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Channel Mapping 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Channel Mapping 
+
+	    Newer     		  487936	h:\DeskPack18_A5\AI\Win_AI23\Esko\Channel Mapping\ChannelMapping_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\CHILI 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\CHILI 
+
+	    Newer     		   4.7 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\CHILI\CHILIPlugin_WAI23r.aip
+--- Copied. 
+Skipping Collection...
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Color Engine 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Color Engine 
+
+	    Newer     		  797696	h:\DeskPack18_A5\AI\Win_AI23\Esko\Color Engine\ColorEnginePlugin_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Art 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Art 
+
+	    Newer     		   3.3 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Art\DynamicArt_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Panels 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Panels 
+
+	    Newer     		   1.5 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Panels\DynamicPanels_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic VDP 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic VDP 
+
+	    Newer     		   2.0 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic VDP\DynamicVDP_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Image Extractor 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Image Extractor 
+
+	    Newer     		  558592	h:\DeskPack18_A5\AI\Win_AI23\Esko\Image Extractor\ImageExtractor_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Image Optimize 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Image Optimize 
+
+	    Newer     		  110080	h:\DeskPack18_A5\AI\Win_AI23\Esko\Image Optimize\ImageOptimize_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Instant Trapper 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Instant Trapper 
+
+	    Newer     		  390656	h:\DeskPack18_A5\AI\Win_AI23\Esko\Instant Trapper\InstantTrapper_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Licensing 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Licensing 
+
+	    Newer     		   8.6 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Licensing\Licensing_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Notes 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Notes 
+
+	    Newer     		  423424	h:\DeskPack18_A5\AI\Win_AI23\Esko\Notes\Notes_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PDF Import 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PDF Import 
+
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PitStop 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PitStop 
+
+	    Newer     		  24.0 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\PitStop\PitStopGUI_WAI23r.aip
+	    Newer     		   1.0 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\PitStop\PitStop_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerLayout 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PowerLayout 
+
+	    Newer     		   2.5 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerLayout\PowerLayout_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerLayout Standalone 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PowerLayout Standalone 
+
+	    Newer     		   3.9 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerLayout Standalone\PowerLayoutStandalone_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerTrapper 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PowerTrapper 
+
+	    Newer     		   3.4 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerTrapper\PowerTrapper_WAI23r.aip
+	    Newer     		  412672	h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerTrapper\RichBlack_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Preflight 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Preflight 
+
+	    Newer     		  249856	h:\DeskPack18_A5\AI\Win_AI23\Esko\Preflight\CheckSuite_WAI23r.aip
+	    Newer     		  416768	h:\DeskPack18_A5\AI\Win_AI23\Esko\Preflight\FontManager_WAI23r.aip
+	    Newer     		  496128	h:\DeskPack18_A5\AI\Win_AI23\Esko\Preflight\Parameters_WAI23r.aip
+	    Newer     		  403456	h:\DeskPack18_A5\AI\Win_AI23\Esko\Preflight\Preflight_Collection_WAI23r.aip
+	    Newer     		  470528	h:\DeskPack18_A5\AI\Win_AI23\Esko\Preflight\Validator_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Screening 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Screening 
+
+	    Newer     		  387072	h:\DeskPack18_A5\AI\Win_AI23\Esko\Screening\Screening_WAI23r.aip
+--- Copied. 
+Skipping Seamless Repeat...
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Select by Attributes 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Select by Attributes 
+
+	    Newer     		  526336	h:\DeskPack18_A5\AI\Win_AI23\Esko\Select by Attributes\SelectByAttributes_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Text Recognition 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Text Recognition 
+
+	    Newer     		   6.9 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Text Recognition\AIOCR_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Thin Parts 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Thin Parts 
+
+	    Newer     		  542208	h:\DeskPack18_A5\AI\Win_AI23\Esko\Thin Parts\ThinParts_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\TIFF Export 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\TIFF Export 
+
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Variable Data 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Variable Data 
+
+	    Newer     		   3.9 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Variable Data\AIVDPPlugin_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\WebCenter Connector 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\WebCenter Connector 
+
+	    Newer     		   6.2 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\WebCenter Connector\WebCenterConnector_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\White Underprint 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\White Underprint 
+
+	    Newer     		  435200	h:\DeskPack18_A5\AI\Win_AI23\Esko\White Underprint\WhiteUnderprint_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Annotations 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Annotations 
+
+	    Newer     		   4.3 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Annotations\Annotations_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\BrixKernel 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\BrixKernel 
+
+	    Newer     		  24.7 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\BrixKernel\brixkernel_wai23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Customer Experience Program 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Customer Experience Program 
+
+	    Newer     		   2.5 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Customer Experience Program\CustomerExperience_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Ink Manager 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Ink Manager 
+
+	    Newer     		  336896	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Ink Manager\Diagnostics_WAI23r.aip
+	    Newer     		   1.0 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Ink Manager\Inks_WAI23r.aip
+	    Newer     		   97280	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Ink Manager\PDF4Illustrator_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Inspection Setup 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Inspection Setup 
+
+	    Newer     		   1.5 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Inspection Setup\InspectionSetup_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\MessageCenter 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\MessageCenter 
+
+	    Newer     		  425472	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\MessageCenter\MessageCenter_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\PDF Export 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\PDF Export 
+
+	    Newer     		  858112	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\PDF Export\PDFExport_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Preferences 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Preferences 
+
+	    Newer     		  211456	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Preferences\PreferencesSuite_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Structural Design 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Structural Design 
+
+	    Newer     		   6.7 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Structural Design\SDExport_WAI23r.aip
+	    Newer     		   9.1 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Structural Design\SDImport_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Text Support 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Text Support 
+
+	    Newer     		   1.4 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Text Support\LiveText_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\TrimBox MediaBox 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\TrimBox MediaBox 
+
+	    Newer     		  693760	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\TrimBox MediaBox\TrimBoxMediaBox_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\XMP Viewer 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\XMP Viewer 
+
+	    Newer     		  913408	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\XMP Viewer\XMPViewer_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Shuttle\BSClient 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Shuttle\BSClient 
+
+	    Newer     		  32.2 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Shuttle\BSClient\BSClient_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Shuttle\Shuttle 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Shuttle\Shuttle 
+
+	    Newer     		   3.3 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\Shuttle\Shuttle\Shuttle_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\UI 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\UI 
+
+	    Newer     		   1.2 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\BGADMQt5Manager_DP161.dll
+	    Newer     		  220160	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\BGADMUIHelper_WAI23r.aip
+	    Newer     		   5.1 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5Core_DP161.dll
+	    Newer     		   5.3 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5Gui_DP161.dll
+	    Newer     		   2.3 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5Network_DP161.dll
+	    Newer     		  337920	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5OpenGL_DP161.dll
+	    Newer     		  211968	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5Sql_DP161.dll
+	    Newer     		  232960	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5WebKitWidgets_DP161.dll
+	    Newer     		  21.3 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5WebKit_DP161.dll
+	    Newer     		   5.2 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5Widgets_DP161.dll
+	    Newer     		  242688	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5WinExtras_DP161.dll
+	    Newer     		  196096	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\Qt5Xml_DP161.dll
+	    Newer     		   1.0 m	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\qwindows.dll
+	    Newer     		   32768	h:\DeskPack18_A5\AI\Win_AI23\Esko\UI\DP161\imageformats\qgif.dll
+--- Copied. 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Data Exchange\NDL Kernel 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\NDL Kernel 
+
+	    Newer     		  39.6 m	h:\DeskPack18_A5\NDL\Win_AI23\Data Exchange\NDL Kernel\AINDLKernelPlugin_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Automated Testers 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers 
+
+	  *EXTRA File 		  317440	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers\AIUnit_WAI23r.aip
+	  *EXTRA File 		  136192	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers\DynamicBarcodesTester_WAI23r.aip
+	  *EXTRA File 		  176128	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers\DynamicMarksTester_WAI23r.aip
+	  *EXTRA File 		  154624	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers\DynamicTablesTester_WAI23r.aip
+	  *EXTRA File 		  311808	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers\PLSTester_WAI23r.aip
+	  *EXTRA File 		  420352	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers\TIFFExportTester_WAI23r.aip
+	  *EXTRA File 		  170496	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers\TrappingTester_WAI23r.aip
+	    Newer     		  417792	h:\DeskPack18_A5\NDL\Win_AI23\Automated Testers\PDFExportTester_WAI23r.aip
+### 3 Difference or error 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Trapping 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Trapping 
+
+	    Newer     		  711168	h:\DeskPack18_A5\NDL\Win_AI23\Trapping\Trapping_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Viewer 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Viewer 
+
+	  *EXTRA File 		  369664	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Viewer\Compare_WAI23r.aip
+	  *EXTRA File 		  759296	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Viewer\Viewer_WAI23r.aip
+	    Newer     		  707072	h:\DeskPack18_A5\NDL\Win_AI23\Viewer\NDLViewer_WAI23r.aip
+### 3 Difference or error 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Dynamic Tables 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Tables 
+
+	    Newer     		   3.2 m	h:\DeskPack18_A5\NDL\Win_AI23\Dynamic Tables\DynamicTables_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Dynamic Marks 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Marks 
+
+	    Newer     		   4.0 m	h:\DeskPack18_A5\NDL\Win_AI23\Dynamic Marks\DynamicMarks_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Dynamic Content 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Content 
+
+	    Newer     		   4.2 m	h:\DeskPack18_A5\NDL\Win_AI23\Dynamic Content\DynamicContent_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Dynamic Barcodes 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Barcodes 
+
+	    Newer     		   3.4 m	h:\DeskPack18_A5\NDL\Win_AI23\Dynamic Barcodes\DynamicBarcodes_WAI23r.aip
+--- Copied. 
+Copying from h:\DeskPack18_A5\NDL\Win_AI23\Data Exchange\Dynamic Marks Core 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Dynamic Marks Core 
+
+	    Newer     		   1.0 m	h:\DeskPack18_A5\NDL\Win_AI23\Data Exchange\Dynamic Marks Core\MarksCore_WAI23r.aip
+--- Copied. 
+--- 2019-07-01 08:14:52.38 
+ 
+Copying bundles... 
+Copying from h:\DeskPack18_A5\Localisation_Win\Esko 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko 
+
+	  *EXTRA File 		       0	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\BrixKernel.plugin\bg_data_cms_bonsai_v010\r\gcr\bgcms_gcrparam.res
+	  *EXTRA File 		       0	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\BrixKernel.plugin\bg_data_cms_bonsai_v010\w\coltrfrm\timestamp.dat
+	  *EXTRA File 		       0	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\BrixKernel.plugin\bg_data_cms_bonsai_v010\w\gcr\bgcms_gcrparam.res
+	  *EXTRA File 		       0	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\BrixKernel.plugin\bg_data_cms_bonsai_v010\w\icc\timestamp.dat
+	  *EXTRA File 		       0	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\BrixKernel.plugin\bg_data_fonts_bonsai_v040\lock.lck
+	  *EXTRA File 		    1774	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\BrixKernel.plugin\bg_data_fonts_bonsai_v040\ufl_cache_win.dat
+	  *EXTRA File 		   28570	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\BrixKernel.plugin\bg_prog_deskpack_v072\dat\Resources\CMap\ufl_cache_win.dat
+	    Newer     		   28982	h:\DeskPack18_A5\Localisation_Win\Esko\DataExchange.plugin\LegalNotices.html
+	    Newer     		    8420	h:\DeskPack18_A5\Localisation_Win\Esko\DataExchange.plugin\English.lproj\structural_design_import.asc
+	    Newer     		   29270	h:\DeskPack18_A5\Localisation_Win\Esko\Designer.plugin\English.lproj\designer.asc
+	    Newer     		    9547	h:\DeskPack18_A5\Localisation_Win\Esko\DynamicArt.plugin\CETDefs\GS1-IP-XML_CET.xml
+	    Newer     		    7387	h:\DeskPack18_A5\Localisation_Win\Esko\DynamicArt.plugin\CETDefs\IPCXML_CET.xml
+	    Newer     		     169	h:\DeskPack18_A5\Localisation_Win\Esko\LicenseSetup.plugin\dummy.lic
+	    Newer     		     226	h:\DeskPack18_A5\Localisation_Win\Esko\LicenseSetup.plugin\url.txt
+	  *EXTRA File 		   8.6 m	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\LicenseSetup.plugin\AI22\Licensing108_libFNP.dll
+	  *EXTRA File 		   8.6 m	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\LicenseSetup.plugin\AI22\Licensing109_libFNP.dll
+	    New File  		   8.6 m	h:\DeskPack18_A5\Localisation_Win\Esko\LicenseSetup.plugin\AI22\Licensing110_libFNP.dll
+	  *EXTRA File 		   8.6 m	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\LicenseSetup.plugin\AI23\Licensing108_libFNP.dll
+	  *EXTRA File 		   8.6 m	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\LicenseSetup.plugin\AI23\Licensing109_libFNP.dll
+	    New File  		   8.6 m	h:\DeskPack18_A5\Localisation_Win\Esko\LicenseSetup.plugin\AI23\Licensing110_libFNP.dll
+	  *EXTRA File 		   8.6 m	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\LicenseSetup.plugin\AI24\Licensing108_libFNP.dll
+	  *EXTRA File 		   8.6 m	c:\Program Files\Adobe\Adobe Illustrator CC 2019\Esko\LicenseSetup.plugin\AI24\Licensing109_libFNP.dll
+	    New File  		   8.6 m	h:\DeskPack18_A5\Localisation_Win\Esko\LicenseSetup.plugin\AI24\Licensing110_libFNP.dll
+	    Newer     		    1648	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Certified2_DigSigKey.p12
+	    Newer     		    1658	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\PreflightTicket_DigSigKey.p12
+	    Newer     		  157468	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add 'This page is intentionally blank' to empty pages.eal
+	    Newer     		    3752	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Color Bars.eal
+	    Newer     		  157975	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Confidential Stamp.eal
+	    Newer     		    3897	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Crop Marks - variable offset from Trim Box.eal
+	    Newer     		    2781	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add document color bar based on trim box.eal
+	    Newer     		    4682	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Document Creator.eal
+	    Newer     		    7609	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Enfocus Background.eal
+	    Newer     		   28085	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Grommets.eal
+	    Newer     		    2455	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Marks to Trim Box.eal
+	    Newer     		   11406	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add my Printer Marks and Enlarge.eal
+	    Newer     		  831292	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Page to Document.eal
+	    Newer     		   16237	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Penguin.eal
+	    Newer     		    2423	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add Registration Marks.eal
+	    Newer     		    3445	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add separation names (line) and enlarge media_crop box.eal
+	    Newer     		    3444	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add separation names (stack) and enlarge media_crop box.eal
+	    Newer     		    3485	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add separation names in black (line) and enlarge media_crop box.eal
+	    Newer     		    3484	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add separation names in black (stack) and enlarge media_crop box.eal
+	    Newer     		    4505	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Add trim box size to page outside the bleed box.eal
+	    Newer     		    4781	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Attach Footer to Media Box.eal
+	    Newer     		    4408	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Generate Bleed to 3mm if none and correctly set all Page Boxes.eal
+	    Newer     		    4856	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Generate Bleed to 3mm if some none or not enough.eal
+	    Newer     		   28938	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Add\Number Pages  (alternating).eal
+	    Newer     		    2674	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Scan for Datamatrix Barcodes.eal
+	    Newer     		    4931	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Scan for EAN 13 Barcodes.eal
+	    Newer     		    4926	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Scan for QR Barcodes.eal
+	    Newer     		  238834	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add Code 128 Barcode (absolute).eal
+	    Newer     		  238830	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add Code 39 Barcode (absolute).eal
+	    Newer     		    3207	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add Data Matrix (absolute).eal
+	    Newer     		  238830	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add EAN-13 Barcode (absolute).eal
+	    Newer     		  238828	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add EAN-8 Barcode (absolute).eal
+	    Newer     		  238829	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add ITF-14 Barcode (absolute).eal
+	    Newer     		    3194	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add QR-Code (absolute).eal
+	    Newer     		  238827	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add UPC-A Barcode (absolute).eal
+	    Newer     		  238828	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Absolute Width Reduction\Add UPC-E Barcode (absolute).eal
+	    Newer     		  238830	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add Code 128 Barcode (relative).eal
+	    Newer     		  238826	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add Code 39 Barcode (relative).eal
+	    Newer     		    3203	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add Data Matrix (relative).eal
+	    Newer     		  238826	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add EAN-13 Barcode (relative).eal
+	    Newer     		  238824	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add EAN-8 Barcode (relative).eal
+	    Newer     		  238825	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add ITF-14 Barcode (relative).eal
+	    Newer     		    3190	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add QR-Code (relative).eal
+	    Newer     		  238823	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add UPC-A Barcode (relative).eal
+	    Newer     		  238824	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Barcode\Relative Width Reduction\Add UPC-E Barcode (relative).eal
+	    Newer     		    3560	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\All 100 CMYK to 100K v2.eal
+	    Newer     		    3532	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\All 100 CMYK to 100K.eal
+	    Newer     		    3124	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\All Black to Real Black.eal
+	    Newer     		    2808	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\All Gray to Real Gray.eal
+	    Newer     		    3331	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Apply -10% @ 50% dot gain curve to all separations.eal
+	    Newer     		    3427	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Change RGB Red to CMYK Red.eal
+	    Newer     		    6995	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Change Word Hyperlinks to Grayscale (based on color selection).eal
+	    Newer     		    7775	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Check for Rich Black (K 85%, TAC 280%).eal
+	    Newer     		    2813	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Color Correction -5% Cyan @ 50% on CMYK images.eal
+	    Newer     		    2741	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Color Correction -5% Magenta @ 50% on CMYK images.eal
+	    Newer     		    4092	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Convert all RGB to CMYK.eal
+	    Newer     		    2417	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Convert Color to CMYK.eal
+	    Newer     		    5255	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Convert Color to Gray and keep black text.eal
+	    Newer     		    2414	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Convert Color to RGB.eal
+	    Newer     		    2757	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Convert NChannel Color Space to DeviceN.eal
+	    Newer     		    2401	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Convert SpotColor to CMYK.eal
+	    Newer     		    3685	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\If it looks Black and convert to Black.eal
+	    Newer     		    5306	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Make 2 Color Job.eal
+	    Newer     		    5372	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Make Rich Black.eal
+	    Newer     		    4369	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Overprinting Spot Colors to Multiply and convert to CMYK.eal
+	    Newer     		    3759	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Registration CMYK to All.eal
+	    Newer     		    4009	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Remap All to CMYK + Gray.eal
+	    Newer     		    3692	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Remap Spot to Own Alternate CMYK Values.eal
+	    Newer     		    3575	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Remap to Clean Up Black.eal
+	    Newer     		    2295	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Remove ICC tag.eal
+	    Newer     		    3475	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Report all Non-Black Objects.eal
+	    Newer     		    3779	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Set Almost Black Text to 100K.eal
+	    Newer     		    2809	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Set minium printing dot to 5%, all separations.eal
+	    Newer     		  404134	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Color\Tag Images with ICC.eal
+	    Newer     		  238689	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\DeviceLinks\Third-Party\Devicelink office RGB-CMYK - ISO Coated V2 300%.eal
+	    Newer     		   8.8 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\DeviceLinks\Third-Party\Devicelink_ eciCMYK (Fogra 53) to PSO Coated v3.eal
+	    Newer     		   8.9 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\DeviceLinks\Third-Party\Devicelink_ eciCMYK (Fogra 53) to PSO Uncoated v3.eal
+	    Newer     		   8.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\DeviceLinks\Third-Party\Devicelink_ ISO Coated v2 to eciCMYK (Fogra 53).eal
+	    Newer     		   91319	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\DeviceLinks\Third-Party\Devicelink_ ISO Coated v2 to PSO Coated v3.eal
+	    Newer     		   90286	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\DeviceLinks\Third-Party\Devicelink_ PSO Coated v3 to ISO Coated v2.eal
+	    Newer     		    3252	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check Esko Barcode Type is Code 128.eal
+	    Newer     		    3248	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check Esko Barcode Type is EAN-13.eal
+	    Newer     		    3265	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check Esko Barcode Type is GS1 Databar.eal
+	    Newer     		    3278	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check Esko Barcode Type is Laetus Pharma Code.eal
+	    Newer     		    3235	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check Esko Barcode Type is QR.eal
+	    Newer     		    3244	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check Esko Barcode Type is UPC-A.eal
+	    Newer     		    3244	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check Esko Barcode Type is UPC-E.eal
+	    Newer     		    3338	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check Esko Barcode Value is (Add Value or Variable Here).eal
+	    Newer     		    3710	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check for Objects Created With Opaque Inks.eal
+	    Newer     		    3566	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check for Objects Created With Technical Inks.eal
+	    Newer     		    3675	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check for Objects Created With Varnish Inks.eal
+	    Newer     		    3567	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check for Objects Defined for Flexo Printing.eal
+	    Newer     		    3596	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check for Objects Defined for Inkjet Printing.eal
+	    Newer     		    3554	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check for Objects Defined for Offset Printing.eal
+	    Newer     		    3601	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Esko Packaging\Check for Objects Defined for Toner Based Printing .eal
+	    Newer     		    3128	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Examples\Example how to Cut and Paste Backwards.eal
+	    Newer     		    3548	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Fonts\Check for live type (text maybe outlined).eal
+	    Newer     		    2307	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Fonts\Convert all text to outlines.eal
+	    Newer     		    2319	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Fonts\Convert Composite fonts to outlines.eal
+	    Newer     		    2321	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Fonts\Convert Embedded fonts to outlines.eal
+	    Newer     		    3302	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Fonts\Embed Non-Base14 Fonts.eal
+	    Newer     		    2355	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Image\Add +10 Brightness to Images.eal
+	    Newer     		    2341	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Image\Add +10 Contrast to Images.eal
+	    Newer     		    2341	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Image\Add +50 Gaussian Blur to Images.eal
+	    Newer     		    2417	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Image\Crop invisible parts of images.eal
+	    Newer     		    3483	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Image\Resample for Print.eal
+	    Newer     		    3340	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Image\Resample for Web.eal
+	    Newer     		    2428	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Image\Sharpen images using USM - Standard.eal
+	    Newer     		    2424	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Image\Sharpen Images using USM - Strong.eal
+	    Newer     		    3665	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check 'Cutting' is Not Empty.eal
+	    Newer     		    3653	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check 'Varnish' is Not Empty.eal
+	    Newer     		    3626	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check 'White' is Not Empty.eal
+	    Newer     		    3927	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check legend does not overlap cutter guide.eal
+	    Newer     		    6976	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check Object Attributes on White.eal
+	    Newer     		    7024	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check Objects Attributes all Structural.eal
+	    Newer     		    6986	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check Objects Attributes Braille.eal
+	    Newer     		    7020	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check Objects Attributes Position.eal
+	    Newer     		    6986	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Check Objects Attributes Varnish.eal
+	    Newer     		    3533	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Create Structural, Creasing from Spot Color.eal
+	    Newer     		    3542	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Create Structural, Cutting from Spot Color.eal
+	    Newer     		    3522	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Create Structural, Emboss from Spot Color.eal
+	    Newer     		    3495	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Create Varnish from Spot Color.eal
+	    Newer     		    3649	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Create White from Spot Color.eal
+	    Newer     		    2744	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\ISO 19593-1 - Processing Steps\Remove all Processing Steps Metadata.eal
+	    Newer     		    2621	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Large or Grand Format\Add the appropriate user unit if the page size is too large.eal
+	    Newer     		    2389	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Large or Grand Format\Change Page Scaling factor to 2 (Userunit).eal
+	    Newer     		    5075	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Large or Grand Format\Check Cutter Guide is a closed path.eal
+	    Newer     		    6835	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Large or Grand Format\Length of Cutter Guide (Individual).eal
+	    Newer     		    6734	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Large or Grand Format\Length of Cutter Guide (Total).eal
+	    Newer     		  396636	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Add Punch Holes to Layer.eal
+	    Newer     		    4539	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Add Varnish Separations to PDF layers (OCG'S).eal
+	    Newer     		    2537	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Assign Objects to Layer.eal
+	    Newer     		    2391	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Change all Layers to 'Print when Visible'.eal
+	    Newer     		    2663	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Change Initial Visibility.eal
+	    Newer     		    4259	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Check for existence of a Layer by the Layer name.eal
+	    Newer     		    3051	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Check for Layers set to 'Never Print'.eal
+	    Newer     		    2387	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Flatten Layers Preserving Initial Visibility.eal
+	    Newer     		    9243	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Isolate Colorspaces.eal
+	    Newer     		    3443	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Isolate Images, Text, Graphics and Shadings.eal
+	    Newer     		    2653	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Isolate overprinting objects.eal
+	    Newer     		    2469	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Layers\Remove Layer from Layers Panel.eal
+	    Newer     		    5367	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Packaging\Create 5mm Radius Round Cornered Cutter Guide based on Trim Box.eal
+	    Newer     		    5605	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Packaging\Create Round Cornered Cutter Guide based on Trim Box - Variable.eal
+	    Newer     		    6839	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Packaging\Length of Cutter Guide (Individual).eal
+	    Newer     		    6737	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Packaging\Length of Cutter Guide (Total).eal
+	    Newer     		    4045	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Add a Stroke to the Trim Box for Visualisation v2.eal
+	    Newer     		    4294	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Add a stroke to the trim box for visualisation.eal
+	    Newer     		    2584	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Apply Page Scaling Factor.eal
+	    Newer     		    3710	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Check if all pages have Crop Marks or not.eal
+	    Newer     		    2399	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Delete first page (including contents).eal
+	    Newer     		    2397	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Delete last page (including contents).eal
+	    Newer     		    3981	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Log if Trim Box has Wrong Size (A4).eal
+	    Newer     		    3647	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Make place for Printer Marks.eal
+	    Newer     		    2428	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Move First Page to become the Last Page.eal
+	    Newer     		    3337	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Reduce the Artbox to a Selection.eal
+	    Newer     		    2954	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Remove anything completely outside the Bleed Box except objects colored 'all' .eal
+	    Newer     		    2619	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Remove anything completely outside the Media Box.eal
+	    Newer     		    2578	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Remove CropBox.eal
+	    Newer     		    2421	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Remove Empty Pages.eal
+	    Newer     		    2748	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Remove First and Last Empty.eal
+	    Newer     		    2662	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Remove pages 5-6.eal
+	    Newer     		    2967	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Remove Printer Marks.eal
+	    Newer     		    3888	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Resize page to A4 Portrait (Disproportional for page boxes, proportional for content).eal
+	    Newer     		    3714	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Resize page to A4 Portrait (Proportional).eal
+	    Newer     		    3889	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Resize page to A5 Portrait (Disproportional for page boxes, proportional for content).eal
+	    Newer     		    3714	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Resize page to A5 Portrait (Proportional).eal
+	    Newer     		    3706	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Resize page to Letter Portrait (Proportional).eal
+	    Newer     		    2374	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Reverse Page order.eal
+	    Newer     		    2470	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Set Bleed to Objects Close at Page Edge.eal
+	    Newer     		    2692	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Set Trim and Bleed Box to Marks.eal
+	    Newer     		    3596	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Split pages wider than A4 (210 mm) in half.eal
+	    Newer     		    3596	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Split pages wider than A5 (148 mm) in half.eal
+	    Newer     		    3623	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Page\Split pages wider than US Letter (8.5 in) in half.eal
+	    Newer     		    2536	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Check Pantone Spot Colors against Pantone+ Solid Coated v3 (CMYK).eal
+	    Newer     		    2534	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Check Pantone Spot Colors against Pantone+ Solid Coated v3 (Lab).eal
+	    Newer     		    2536	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Check Pantone Spot Colors against Pantone+ Solid Uncoated v3 (CMYK).eal
+	    Newer     		    2540	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Check Pantone Spot Colors against Pantone+ Solid Uncoated v3 (Lab).eal
+	    Newer     		    2528	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Normalize all Pantone Color names and add 'C' if suffix missing.eal
+	    Newer     		    2530	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Normalize all Pantone Color names and add 'CP' if suffix missing.eal
+	    Newer     		    2528	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Normalize all Pantone Color names and add 'U' if suffix missing.eal
+	    Newer     		    2530	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Normalize all Pantone Color names and add 'UP' if suffix missing.eal
+	    Newer     		    2840	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Remap all Pantone Spot Colors to Pantone+ Solid Coated v3 (CMYK).eal
+	    Newer     		    2838	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Remap all Pantone Spot Colors to Pantone+ Solid Coated v3 (Lab).eal
+	    Newer     		    2846	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Remap all Pantone Spot Colors to Pantone+ Solid Uncoated v3 (CMYK).eal
+	    Newer     		    2844	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Pantone\Remap all Pantone Spot Colors to Pantone+ Solid Uncoated v3 (Lab).eal
+	    Newer     		    3587	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Preflight - Additional Checks\Detect Small Objects.eal
+	    Newer     		    3273	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Preflight - Additional Checks\Detect Specific SpotColor.eal
+	    Newer     		    3164	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Preflight - Additional Checks\Find Overlapping Text .eal
+	    Newer     		    3547	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Preflight - Additional Checks\Low-res images_ error below 200 warn below 280.eal
+	    Newer     		    2498	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Preflight - Additional Checks\Warn if Courier is used within trim box.eal
+	    Newer     		    7009	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Check for Black Text sitting on Dark Color (does not include images).eal
+	    Newer     		    2415	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Check for complex pages (over 5,000 nodes).eal
+	    Newer     		    6663	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Check for White Text sitting on Light Color (does not include images).eal
+	    Newer     		    2408	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Check Ink Coverage (305%).eal
+	    Newer     		    3502	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Clean Up Content.eal
+	    Newer     		    2461	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Crop white border pixels.eal
+	    Newer     		    2673	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Ensure Line weight.eal
+	    Newer     		    2478	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Ensure Trapped Flag Set.eal
+	    Newer     		    2658	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Find complex pages (over 5,000 nodes) and rasterize them at 600 dpi.eal
+	    Newer     		    3565	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Find images without an overlapping VARNISH separation.eal
+	    Newer     		    4656	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Knockout Light Objects.eal
+	    Newer     		    4896	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Knockout White Text.eal
+	    Newer     		    2558	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Min Dot - Each Separation must be +5%.eal
+	    Newer     		    4856	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Overprint Black Text.eal
+	    Newer     		    5306	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Overprint Dark Objects.eal
+	    Newer     		    2784	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Remove irrelevant objects.eal
+	    Newer     		    3223	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Remove irrelevant text objects.eal
+	    Newer     		    3199	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Remove irrelevant vector objects.eal
+	    Newer     		    2671	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Prepress\Remove OPI.eal
+	    Newer     		    2579	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\12pp Re-order.eal
+	    Newer     		    2596	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\16pp Re-order .eal
+	    Newer     		    2611	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\20pp Re-order .eal
+	    Newer     		    2626	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\24pp Re-order.eal
+	    Newer     		    2642	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\28pp Re-order.eal
+	    Newer     		    2659	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\32pp Re-order.eal
+	    Newer     		    2641	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\36pp Re-order.eal
+	    Newer     		    2547	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\4pp Re-order.eal
+	    Newer     		    2320	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Re-arrange Printers Pairs\8pp Re-order.eal
+	    Newer     		    2414	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Convert Color to RGB.eal
+	    Newer     		    3142	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Convert Page to an Image (Removing White Lines) @ 100dpi.eal
+	    Newer     		    3143	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Convert Page to an Image (Removing White Lines) @ 200dpi .eal
+	    Newer     		    3142	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Convert Page to an Image (Removing White Lines) @ 300dpi.eal
+	    Newer     		    2423	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Convert page to an image @ 100dpi - Jpeg High.eal
+	    Newer     		    2423	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Convert page to an image @ 200dpi - Jpeg High.eal
+	    Newer     		    2423	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Convert page to an image @ 300dpi - Jpeg High.eal
+	    Newer     		    2572	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Convert Shadings (Blends) to an Image (300dpi, High Jpeg).eal
+	    Newer     		    3528	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Crop to Visible.eal
+	    Newer     		    2460	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Flatten Annotations.eal
+	    Newer     		    2497	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Flatten form fields to normal content.eal
+	    Newer     		    2387	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Flatten Layers Using Initial Visibility.eal
+	    Newer     		    4247	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Internet Optimized 2.0.eal
+	    Newer     		    4108	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Internet Optimized.eal
+	    Newer     		    2422	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\iPad Check URL's are live.eal
+	    Newer     		    2836	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\iPad Combine and Rasterize Images to reduce complexity - Jpeg.eal
+	    Newer     		    2872	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\iPad Combine and Rasterize Images to reduce complexity - Zip.eal
+	    Newer     		    2836	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\iPad Combine, Rasterize and reduce complexity - Jpeg.eal
+	    Newer     		    2834	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\iPad Combine, Rasterize and reduce complexity - Zip.eal
+	    Newer     		    5229	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Make UltraThin Proof 2.0.eal
+	    Newer     		    5025	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Make UltraThin Proof.eal
+	    Newer     		    7986	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Minimize File Size 3.0.eal
+	    Newer     		    7781	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Minimize File Size.eal
+	    Newer     		    4490	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Minimize for iPad 2.0.eal
+	    Newer     		    4282	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Minimize for iPad.eal
+	    Newer     		    2550	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove All External Links.eal
+	    Newer     		    3326	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove All Metadata.eal
+	    Newer     		    2397	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove all PieceInfo.eal
+	    Newer     		    2550	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove Annotations.eal
+	    Newer     		    2582	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove Clipped Away Objects.eal
+	    Newer     		    3826	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove Invisible Data.eal
+	    Newer     		    2556	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove Meta Information 2.0.eal
+	    Newer     		    2498	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove Meta Information.eal
+	    Newer     		    2566	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove Non-Link Annotations.eal
+	    Newer     		    2538	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Remove PDF Attachments.eal
+	    Newer     		    2877	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Resize to iPad 130x197mm.eal
+	    Newer     		    7417	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Scrubber 2.0.eal
+	    Newer     		    7208	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Repurposing\Scrubber.eal
+	    Newer     		    2394	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\All even numbered pages.eal
+	    Newer     		    2393	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\All odd numbered pages.eal
+	    Newer     		    2531	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\All pages except Cover page.eal
+	    Newer     		    2845	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\All pages except First and Last pages.eal
+	    Newer     		    2754	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\All pages except first and last two pages.eal
+	    Newer     		    2546	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\All pages except First and Second pages.eal
+	    Newer     		    2531	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\All pages except First Page.eal
+	    Newer     		    2530	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\All pages except Last Page.eal
+	    Newer     		    2472	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Esko 'Normal' Inks.eal
+	    Newer     		    2478	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Esko 'Technical' Inks.eal
+	    Newer     		    2699	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\First and Last pages only.eal
+	    Newer     		    2602	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\First and Last two pages.eal
+	    Newer     		    2400	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\First and Second pages only.eal
+	    Newer     		    2385	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\First page only.eal
+	    Newer     		    2356	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Images (Raster) only.eal
+	    Newer     		    2401	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Inside or overlapping Bleed Box.eal
+	    Newer     		    2400	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Inside or overlapping Trim Box.eal
+	    Newer     		    2386	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Landscape pages only (based on Trim Box).eal
+	    Newer     		    2384	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Last page only.eal
+	    Newer     		    2360	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Line Art (Graphics) only.eal
+	    Newer     		    2385	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Portrait pages only (based on Trim Box).eal
+	    Newer     		    3796	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Preflight objects only within a contour.eal
+	    Newer     		    3792	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Preflight objects only within or overlapping  a contour.eal
+	    Newer     		    2712	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Preflight only needed elements (ignore hidden ones).eal
+	    Newer     		    2699	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Second Page and Second last Page.eal
+	    Newer     		    2343	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Restricting Action Lists\Text only.eal
+	    Newer     		  150811	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Action Lists\Smart Preflight\Smart Action List - Add Text to Page.eal
+	    Newer     		  363797	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\AlternateFonts\AlternateFont.rep
+	    Newer     		     308	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_AddSmall.png
+	    Newer     		     745	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_AllSmall.png
+	    Newer     		     603	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_ColorSmall.png
+	    Newer     		     370	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_DocumentSmall.png
+	    Newer     		     745	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_FavoritesSmall.png
+	    Newer     		     611	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_ImageSmall.png
+	    Newer     		     489	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_LayersSmall.png
+	    Newer     		     500	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_LineArtSmall.png
+	    Newer     		     331	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_MetadataSmall.png
+	    Newer     		     365	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_NoneSmall.png
+	    Newer     		     357	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_OperatorSmall.png
+	    Newer     		     375	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_PackagingSmall.png
+	    Newer     		     430	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_PageSmall.png
+	    Newer     		     585	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_PositionSmall.png
+	    Newer     		     298	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_PrepressSmall.png
+	    Newer     		     745	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_RecentSmall.png
+	    Newer     		     453	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_RemoveSmall.png
+	    Newer     		     713	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_SpecialSmall.png
+	    Newer     		     374	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ActionCategory_TextSmall.png
+	    Newer     		    1160	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_AllSmall.png
+	    Newer     		     256	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_Blank.png
+	    Newer     		    1225	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_ChangesSmall.png
+	    Newer     		    1077	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_ChecksSmall.png
+	    Newer     		     536	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugAllPages.png
+	    Newer     		     448	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugBreakpoint.png
+	    Newer     		     548	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugCurrentPage.png
+	    Newer     		     489	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugPauze.png
+	    Newer     		     471	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugPointer.png
+	    Newer     		     961	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugReset.png
+	    Newer     		     597	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugRun.png
+	    Newer     		    1034	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugSpeed.png
+	    Newer     		     492	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugStart.png
+	    Newer     		     629	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugStep.png
+	    Newer     		     699	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_DebugStop.png
+	    Newer     		     550	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_Debug_Header.png
+	    Newer     		     162	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_Green.png
+	    Newer     		     698	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_GreenAllPurpleTop.png
+	    Newer     		     462	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_GreenBottom.png
+	    Newer     		     701	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_GreenBottomPurpleAll.png
+	    Newer     		     770	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_GreenBottomPurpleTop.png
+	    Newer     		     735	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_GreenRound.png
+	    Newer     		     472	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_GreenTop.png
+	    Newer     		     770	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_GreenTopPurpleBottom.png
+	    Newer     		    1023	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_InformsSmall.png
+	    Newer     		     162	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_Purple.png
+	    Newer     		     447	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_PurpleBottom.png
+	    Newer     		     738	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_PurpleRound.png
+	    Newer     		     478	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_PurpleTop.png
+	    Newer     		    1151	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_SelectsSmall.png
+	    Newer     		    1190	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_SettingsSmall.png
+	    Newer     		     499	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_StartRecord.png
+	    Newer     		     247	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Actions_StopRecord.png
+	    Newer     		     406	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Action_ColorPicker.png
+	    Newer     		     871	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Action_Grab.png
+	    Newer     		     935	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Add_Action.png
+	    Newer     		     631	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Add_Actionlist.png
+	    Newer     		    1459	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\AL_Locked.png
+	    Newer     		     992	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\AL_NotOke.png
+	    Newer     		     863	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\AL_Oke.png
+	    Newer     		     263	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncBot.png
+	    Newer     		     258	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncBotLef.png
+	    Newer     		     241	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncBotLef_On.png
+	    Newer     		     260	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncBotRig.png
+	    Newer     		     242	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncBotRig_On.png
+	    Newer     		     250	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncBot_On.png
+	    Newer     		     238	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncCen.png
+	    Newer     		     222	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncCen_On.png
+	    Newer     		     249	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncLef.png
+	    Newer     		     237	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncLef_On.png
+	    Newer     		     245	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncRig.png
+	    Newer     		     230	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncRig_On.png
+	    Newer     		     271	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncTop.png
+	    Newer     		     252	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncTopLef.png
+	    Newer     		     234	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncTopLef_On.png
+	    Newer     		     272	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncTopRig.png
+	    Newer     		     247	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncTopRig_On.png
+	    Newer     		     245	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtEditUI_AncTop_On.png
+	    Newer     		     598	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ActionList.png
+	    Newer     		     664	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ActionListBroken.png
+	    Newer     		     660	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ActionListCategory.png
+	    Newer     		     657	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ActionListCategoryBrokenRoot.png
+	    Newer     		     549	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ActionListCategoryRoot.png
+	    Newer     		     663	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ActionListLink.png
+	    Newer     		     369	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_FontPicker.png
+	    Newer     		     396	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_Profile.png
+	    Newer     		     486	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ProfileBroken.png
+	    Newer     		     590	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ProfileCategory.png
+	    Newer     		     710	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ProfileCategoryBrokenRoot.png
+	    Newer     		     660	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ProfileCategoryRoot.png
+	    Newer     		     494	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ProfileLink.png
+	    Newer     		     651	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ReadOnlyActionList.png
+	    Newer     		     684	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ReadOnlyActionListCategory.png
+	    Newer     		     661	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ReadOnlyActionListCategoryBrokenRoot.png
+	    Newer     		     591	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ReadOnlyActionListCategoryRoot.png
+	    Newer     		     508	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ReadOnlyProfile.png
+	    Newer     		     641	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ReadOnlyProfileCategory.png
+	    Newer     		     740	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ReadOnlyProfileCategoryBrokenRoot.png
+	    Newer     		     681	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtPdfUI_ReadOnlyProfileCategoryRoot.png
+	    Newer     		     257	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtUI_Add.png
+	    Newer     		     254	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtUI_Remove.png
+	    Newer     		     591	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ArtUI_RemoveItem.png
+	    Newer     		    3126	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\CrossCursor.bmp
+	    Newer     		    3126	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\CrossCursorMask.bmp
+	    Newer     		     352	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Customise.png
+	    Newer     		     360	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Customise_On.png
+	    Newer     		     313	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_Down.png
+	    Newer     		     241	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_first.png
+	    Newer     		     242	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_last.png
+	    Newer     		     380	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_Left.png
+	    Newer     		     365	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_Lock20x20.png
+	    Newer     		     238	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_next.png
+	    Newer     		     242	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_prev.png
+	    Newer     		     385	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_Right.png
+	    Newer     		     641	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_Swap.png
+	    Newer     		     338	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_Unlock20x20.png
+	    Newer     		     325	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Gau_Up.png
+	    Newer     		     329	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_AddItem.png
+	    Newer     		     292	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_Down.png
+	    Newer     		     566	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_Duplicate.png
+	    Newer     		     647	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_Edit.png
+	    Newer     		    1176	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_Error.png
+	    Newer     		     655	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_Export.png
+	    Newer     		     312	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_Help.png
+	    Newer     		     689	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_Import.png
+	    Newer     		     258	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_RemoveItem.png
+	    Newer     		     265	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\General_Up.png
+	    Newer     		     468	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_boldedcorner.png
+	    Newer     		     431	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_chamfered.png
+	    Newer     		     224	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_continuousstroke.png
+	    Newer     		     257	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_dashedstroke.png
+	    Newer     		    2247	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_divide.png
+	    Newer     		    2267	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_exclude.png
+	    Newer     		     442	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_extendedsquarecaps.png
+	    Newer     		    1708	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_intersect.png
+	    Newer     		     456	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_inverted.png
+	    Newer     		    1722	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_minusback.png
+	    Newer     		    1911	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_minusfront.png
+	    Newer     		     474	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_non-boldedcorner.png
+	    Newer     		     277	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_overprint.png
+	    Newer     		     255	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_overprint_On.png
+	    Newer     		     384	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_rectangle.png
+	    Newer     		     485	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_round.png
+	    Newer     		     564	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_roundedlinecaps.png
+	    Newer     		     541	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_semi-boldedcorner.png
+	    Newer     		     453	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_squarelinecaps.png
+	    Newer     		    2315	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GMOv_unite.png
+	    Newer     		     631	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GQUICloseTab.png
+	    Newer     		     602	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GQUICloseTab_Hover.png
+	    Newer     		    5309	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GQUIWizardMac.png
+	    Newer     		  149848	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\GQUIWizardWin620x440.bmp
+	    Newer     		     539	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\PrAl_actionlistcontrolpanel.png
+	    Newer     		     477	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\PrAl_Manage.png
+	    Newer     		     469	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\PrAl_profilecontrolpanel.png
+	    Newer     		    1050	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\PrAl_varsetcontrolpanel.png
+	    Newer     		    1349	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ProfileEditor_AddTab.png
+	    Newer     		     691	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ProfileEditor_Error.png
+	    Newer     		     378	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ProfileEditor_Fix.png
+	    Newer     		     580	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ProfileEditor_SignOff.png
+	    Newer     		     574	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\ProfileEditor_Warning.png
+	    Newer     		     470	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Restrictions_AddItem.png
+	    Newer     		     241	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Restrictions_Delete.png
+	    Newer     		     587	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Restrictions_Edit.png
+	    Newer     		     578	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Restrictions_Export.png
+	    Newer     		     621	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Restrictions_Import.png
+	    Newer     		     534	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\SetVariableButton.png
+	    Newer     		    4453	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variables_LogoLeft.png
+	    Newer     		    2452	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variables_LogoRight.png
+	    Newer     		     196	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variables_MissingValues.png
+	    Newer     		     257	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variable_Add.png
+	    Newer     		     482	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variable_Copy.png
+	    Newer     		     474	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variable_Debug.png
+	    Newer     		     157	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variable_Error.png
+	    Newer     		    1459	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variable_Locked.png
+	    Newer     		     254	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variable_Remove.png
+	    Newer     		     244	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\Variable_RestoreDefault.png
+	    Newer     		     721	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_Category.png
+	    Newer     		     618	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_CategoryBrokenRoot.png
+	    Newer     		     602	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_CategoryRoot.png
+	    Newer     		     580	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_File.png
+	    Newer     		     586	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_FileBroken.png
+	    Newer     		     615	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_FileLink.png
+	    Newer     		     689	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_ReadOnlyCategory.png
+	    Newer     		     630	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_ReadOnlyCategoryBrokenRoot.png
+	    Newer     		     628	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_ReadOnlyCategoryRoot.png
+	    Newer     		     627	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Artwork\VarSet_ReadOnlyFile.png
+	    Newer     		   14796	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\78-EUC-H
+	    Newer     		    3222	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\78-EUC-V
+	    Newer     		   14673	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\78-H
+	    Newer     		   14827	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\78-RKSJ-H
+	    Newer     		    3228	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\78-RKSJ-V
+	    Newer     		    3198	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\78-V
+	    Newer     		   16500	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\78ms-RKSJ-H
+	    Newer     		    4209	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\78ms-RKSJ-V
+	    Newer     		    7080	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\83pv-RKSJ-H
+	    Newer     		    6070	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90ms-RKSJ-H
+	    Newer     		  106262	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90ms-RKSJ-UCS2
+	    Newer     		    4229	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90ms-RKSJ-V
+	    Newer     		    6001	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90msp-RKSJ-H
+	    Newer     		    4212	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90msp-RKSJ-V
+	    Newer     		    7815	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90pv-RKSJ-H
+	    Newer     		    3323	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90pv-RKSJ-UCS2
+	    Newer     		   97360	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90pv-RKSJ-UCS2C
+	    Newer     		    3715	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\90pv-RKSJ-V
+	    Newer     		   14854	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Add-H
+	    Newer     		   15038	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Add-RKSJ-H
+	    Newer     		    3823	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Add-RKSJ-V
+	    Newer     		    3793	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Add-V
+	    Newer     		    3829	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-0
+	    Newer     		    4002	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-1
+	    Newer     		    4022	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-2
+	    Newer     		    4122	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-3
+	    Newer     		    4142	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-4
+	    Newer     		    4142	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-5
+	    Newer     		    4142	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-6
+	    Newer     		    4268	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-7
+	    Newer     		    9130	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-B5pc
+	    Newer     		    9531	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-ETen-B5
+	    Newer     		    3424	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-H-CID
+	    Newer     		    9639	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-H-Host
+	    Newer     		    9195	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-H-Mac
+	    Newer     		  265146	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-CNS1-UCS2
+	    Newer     		    3292	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-0
+	    Newer     		    3446	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-1
+	    Newer     		    4400	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-2
+	    Newer     		    4399	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-3
+	    Newer     		    4951	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-4
+	    Newer     		    5051	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-5
+	    Newer     		   91040	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-GBK-EUC
+	    Newer     		    5572	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-GBpc-EUC
+	    Newer     		    3539	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-H-CID
+	    Newer     		   91618	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-H-Host
+	    Newer     		    5553	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-H-Mac
+	    Newer     		  231913	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-GB1-UCS2
+	    Newer     		    3341	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-0
+	    Newer     		    3342	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-1
+	    Newer     		    3380	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-2
+	    Newer     		    3390	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-3
+	    Newer     		    3868	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-4
+	    Newer     		    4248	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-5
+	    Newer     		    4468	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-6
+	    Newer     		    4610	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-7
+	    Newer     		    7605	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-90ms-RKSJ
+	    Newer     		    9596	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-90pv-RKSJ
+	    Newer     		    3723	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-H-CID
+	    Newer     		    7855	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-H-Host
+	    Newer     		    6782	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-H-Mac
+	    Newer     		   23503	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-PS-H
+	    Newer     		   14283	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-PS-V
+	    Newer     		  284124	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan1-UCS2
+	    Newer     		    3237	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Japan2-0
+	    Newer     		    3433	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-0
+	    Newer     		    4089	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-1
+	    Newer     		    4088	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-2
+	    Newer     		    3108	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-H-CID
+	    Newer     		   16869	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-H-Host
+	    Newer     		   12437	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-H-Mac
+	    Newer     		   16674	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-KSCms-UHC
+	    Newer     		   12521	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-KSCpc-EUC
+	    Newer     		  146880	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-Korea1-UCS2
+	    Newer     		    2966	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-0
+	    Newer     		    3106	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-1
+	    Newer     		    3632	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-2
+	    Newer     		    3653	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-3
+	    Newer     		    3674	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-4
+	    Newer     		    3695	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-5
+	    Newer     		    3863	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-6
+	    Newer     		    4241	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-7
+	    Newer     		    4535	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-8
+	    Newer     		    4577	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Adobe-KR-9
+	    Newer     		    3240	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\AR-GB-EUC-H
+	    Newer     		   16622	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\AR-HK-B5-H
+	    Newer     		   16619	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\AR-HK-B5pc-H
+	    Newer     		    7493	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\B5-H
+	    Newer     		    2924	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\B5-V
+	    Newer     		    7547	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\B5pc-H
+	    Newer     		    2716	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\B5pc-UCS2
+	    Newer     		  273014	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\B5pc-UCS2C
+	    Newer     		    2936	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\B5pc-V
+	    Newer     		   12246	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS-EUC-H
+	    Newer     		   13278	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS-EUC-V
+	    Newer     		    3050	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS01-RKSJ-H
+	    Newer     		    3349	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS02-RKSJ-H
+	    Newer     		    3055	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS03-RKSJ-H
+	    Newer     		    3307	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS04-RKSJ-H
+	    Newer     		    3601	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS05-RKSJ-H
+	    Newer     		    3097	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS06-RKSJ-H
+	    Newer     		    3139	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS07-RKSJ-H
+	    Newer     		    5611	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS1-H
+	    Newer     		    2932	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS1-V
+	    Newer     		    3286	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS15-RKSJ-H
+	    Newer     		    4275	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS2-H
+	    Newer     		    2683	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\CNS2-V
+	    Newer     		    7703	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\ETen-B5-H
+	    Newer     		  276694	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\ETen-B5-UCS2
+	    Newer     		    2974	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\ETen-B5-V
+	    Newer     		    2729	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\ETenms-B5-H
+	    Newer     		    3041	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\ETenms-B5-V
+	    Newer     		   23202	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\ETHK-B5-H
+	    Newer     		    2955	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\ETHK-B5-V
+	    Newer     		    5075	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\EUC-H
+	    Newer     		    3223	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\EUC-V
+	    Newer     		   15424	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Ext-H
+	    Newer     		   15607	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Ext-RKSJ-H
+	    Newer     		    3481	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Ext-RKSJ-V
+	    Newer     		    3451	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Ext-V
+	    Newer     		    4427	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GB-EUC-H
+	    Newer     		    3100	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GB-EUC-V
+	    Newer     		    4322	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GB-H
+	    Newer     		    3550	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GB-RKSJ-H
+	    Newer     		    3076	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GB-V
+	    Newer     		   83102	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBK-EUC-H
+	    Newer     		  224316	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBK-EUC-UCS2
+	    Newer     		    3089	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBK-EUC-V
+	    Newer     		   90926	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBK2K-H
+	    Newer     		    3482	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBK2K-V
+	    Newer     		   83083	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBKp-EUC-H
+	    Newer     		    3095	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBKp-EUC-V
+	    Newer     		    4455	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBpc-EUC-H
+	    Newer     		    2798	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBpc-EUC-UCS2
+	    Newer     		  142825	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBpc-EUC-UCS2C
+	    Newer     		    3112	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBpc-EUC-V
+	    Newer     		   46773	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBT-EUC-H
+	    Newer     		    3108	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBT-EUC-V
+	    Newer     		   46668	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBT-H
+	    Newer     		   48193	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBT-RKSJ-H
+	    Newer     		    3084	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBT-V
+	    Newer     		   46803	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBTpc-EUC-H
+	    Newer     		    3120	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\GBTpc-EUC-V
+	    Newer     		    4941	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\H
+	    Newer     		    2821	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Hankaku
+	    Newer     		    2795	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Hiragana
+	    Newer     		    7247	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HK-RKSJ-H
+	    Newer     		   23268	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKdla-B5-H
+	    Newer     		    2941	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKdla-B5-V
+	    Newer     		   20928	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKdlb-B5-H
+	    Newer     		    2941	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKdlb-B5-V
+	    Newer     		   13724	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKgccs-B5-H
+	    Newer     		    2947	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKgccs-B5-V
+	    Newer     		   13537	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKm314-B5-H
+	    Newer     		    2947	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKm314-B5-V
+	    Newer     		   16507	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKm471-B5-H
+	    Newer     		    2947	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKm471-B5-V
+	    Newer     		   23253	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKscs-B5-H
+	    Newer     		    2961	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\HKscs-B5-V
+	    Newer     		    4695	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Hojo-EUC-H
+	    Newer     		    2778	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Hojo-EUC-V
+	    Newer     		    4345	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Hojo-H
+	    Newer     		    3288	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Hojo-RKSJ-H
+	    Newer     		    2754	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Hojo-V
+	    Newer     		    7820	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Identity-H
+	    Newer     		    2619	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Identity-V
+	    Newer     		    2711	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Katakana
+	    Newer     		   11728	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSC-EUC-H
+	    Newer     		    3036	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSC-EUC-V
+	    Newer     		   11637	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSC-H
+	    Newer     		   84250	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSC-Johab-H
+	    Newer     		    3050	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSC-Johab-V
+	    Newer     		   11242	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSC-RKSJ-H
+	    Newer     		    3012	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSC-V
+	    Newer     		    2225	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSC2-RKSJ-H
+	    Newer     		   15940	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCms-UHC-H
+	    Newer     		   15936	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCms-UHC-HW-H
+	    Newer     		    3049	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCms-UHC-HW-V
+	    Newer     		  182629	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCms-UHC-UCS2
+	    Newer     		    3050	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCms-UHC-V
+	    Newer     		   12555	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCpc-EUC-H
+	    Newer     		   17269	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCpc-EUC-UCS2
+	    Newer     		  151130	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCpc-EUC-UCS2C
+	    Newer     		    3048	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\KSCpc-EUC-V
+	    Newer     		   17298	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\NWP-H
+	    Newer     		    3603	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\NWP-V
+	    Newer     		    5124	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\RKSJ-H
+	    Newer     		    3229	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\RKSJ-V
+	    Newer     		    2688	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\Roman
+	    Newer     		    2380	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\TCVN-RKSJ-H
+	    Newer     		  149764	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UCS2-90ms-RKSJ
+	    Newer     		  143037	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UCS2-90pv-RKSJ
+	    Newer     		  273324	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UCS2-B5pc
+	    Newer     		  287009	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UCS2-ETen-B5
+	    Newer     		  234125	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UCS2-GBK-EUC
+	    Newer     		  189608	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UCS2-GBpc-EUC
+	    Newer     		  188922	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UCS2-KSCms-UHC
+	    Newer     		  147792	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UCS2-KSCpc-EUC
+	    Newer     		  199147	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniAKR-UTF16-H
+	    Newer     		  263082	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniAKR-UTF32-H
+	    Newer     		  232694	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniAKR-UTF8-H
+	    Newer     		  326349	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniCNS-UCS2-H
+	    Newer     		    2971	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniCNS-UCS2-V
+	    Newer     		  253253	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniCNS-UTF16-H
+	    Newer     		    2960	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniCNS-UTF16-V
+	    Newer     		  324657	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniCNS-UTF32-H
+	    Newer     		    3040	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniCNS-UTF32-V
+	    Newer     		  290056	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniCNS-UTF8-H
+	    Newer     		    2996	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniCNS-UTF8-V
+	    Newer     		  274383	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniGB-UCS2-H
+	    Newer     		    3167	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniGB-UCS2-V
+	    Newer     		  199981	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniGB-UTF16-H
+	    Newer     		    3061	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniGB-UTF16-V
+	    Newer     		  267909	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniGB-UTF32-H
+	    Newer     		    3177	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniGB-UTF32-V
+	    Newer     		  237834	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniGB-UTF8-H
+	    Newer     		    3115	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniGB-UTF8-V
+	    Newer     		   83661	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniHojo-UCS2-H
+	    Newer     		    2783	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniHojo-UCS2-V
+	    Newer     		   63017	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniHojo-UTF16-H
+	    Newer     		    2789	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniHojo-UTF16-V
+	    Newer     		   84890	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniHojo-UTF32-H
+	    Newer     		    2789	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniHojo-UTF32-V
+	    Newer     		   73770	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniHojo-UTF8-H
+	    Newer     		    2785	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniHojo-UTF8-V
+	    Newer     		  168597	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UCS2-H
+	    Newer     		    2820	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UCS2-HW-H
+	    Newer     		    6591	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UCS2-HW-V
+	    Newer     		    6509	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UCS2-V
+	    Newer     		  188084	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UTF16-H
+	    Newer     		    5771	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UTF16-V
+	    Newer     		  245280	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UTF32-H
+	    Newer     		    6803	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UTF32-V
+	    Newer     		  216315	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UTF8-H
+	    Newer     		    6296	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS-UTF8-V
+	    Newer     		  188164	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS2004-UTF16-H
+	    Newer     		    5795	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS2004-UTF16-V
+	    Newer     		  245360	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS2004-UTF32-H
+	    Newer     		    6827	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS2004-UTF32-V
+	    Newer     		  216393	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS2004-UTF8-H
+	    Newer     		    6318	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJIS2004-UTF8-V
+	    Newer     		    6729	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJISPro-UCS2-HW-V
+	    Newer     		    6618	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJISPro-UCS2-V
+	    Newer     		    7467	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJISPro-UTF8-V
+	    Newer     		  245242	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJISX0213-UTF32-H
+	    Newer     		    6769	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJISX0213-UTF32-V
+	    Newer     		  245350	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJISX02132004-UTF32-H
+	    Newer     		    6793	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniJISX02132004-UTF32-V
+	    Newer     		  166009	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniKS-UCS2-H
+	    Newer     		    3076	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniKS-UCS2-V
+	    Newer     		  122938	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniKS-UTF16-H
+	    Newer     		    3030	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniKS-UTF16-V
+	    Newer     		  165010	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniKS-UTF32-H
+	    Newer     		    3130	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniKS-UTF32-V
+	    Newer     		  145845	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniKS-UTF8-H
+	    Newer     		    3076	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\UniKS-UTF8-V
+	    Newer     		    3199	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\V
+	    Newer     		    3093	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\CMap\WP-Symbol
+	    Newer     		   73692	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSans-Bold.pfa
+	    Newer     		   74205	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSans-BoldOblique.pfa
+	    Newer     		   73172	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSans-Oblique.pfa
+	    Newer     		   79855	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSans.pfa
+	    Newer     		   70057	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSansMono-Bold.pfa
+	    Newer     		   72779	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSansMono-BoldOblique.pfa
+	    Newer     		   71269	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSansMono-Oblique.pfa
+	    Newer     		   78152	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSansMono.pfa
+	    Newer     		  102629	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSerif-Bold.pfa
+	    Newer     		   95245	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSerif-BoldItalic.pfa
+	    Newer     		  104026	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSerif-Italic.pfa
+	    Newer     		  100180	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSerif.pfa
+	    Newer     		   59397	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusSym.pfa
+	    Newer     		  112580	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\FontMetrics\EnfocusZapf.pfa
+	    Newer     		     560	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\AdobeRGB1998.icc
+	    Newer     		     552	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\AppleRGB.icc
+	    Newer     		     612	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\Enfocus XYZ Profile.icc
+	    Newer     		   1.4 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\Generic Enfocus CMYK.icm
+	    Newer     		   13880	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\Generic Enfocus Gray.icm
+	    Newer     		     676	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\Generic Enfocus Lab.icm
+	    Newer     		  795908	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\Generic Enfocus RGB.icm
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\ECI\eciCMYK.icc
+	    Newer     		   9.0 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\ECI\eciCMYK_to_PSOcoated_v3_DeviceLink.icc
+	    Newer     		   9.0 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\ECI\eciCMYK_to_PSOuncoated_v3_DeviceLink.icc
+	    Newer     		    1992	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\ECI\eciRGB_v2.icc
+	    Newer     		     700	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\ECI\eciRGB_v2_ICCv4.icc
+	    Newer     		   9.0 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\ECI\ISOcoated_v2_to_eciCMYK_DeviceLink.icc
+	    Newer     		    2994	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\ECI\licence.rtf
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\ECI\PSOsc-b_paper_v3_FOGRA54.icc
+	    Newer     		   3.5 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\CGATS21_CRPC1.icc
+	    Newer     		   3.5 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\CGATS21_CRPC2.icc
+	    Newer     		   3.5 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\CGATS21_CRPC3.icc
+	    Newer     		   3.5 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\CGATS21_CRPC4.icc
+	    Newer     		   3.1 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\CGATS21_CRPC5.icc
+	    Newer     		   3.3 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\CGATS21_CRPC6.icc
+	    Newer     		   3.3 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\CGATS21_CRPC7.icc
+	    Newer     		   2.6 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\GRACoL2006_Coated1v2.icc
+	    Newer     		   3.5 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\GRACoL2013UNC_CRPC3.icc
+	    Newer     		   3.3 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\GRACoL2013_CRPC6.icc
+	    Newer     		   2.6 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\SWOP2006_Coated3v2.icc
+	    Newer     		   2.6 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\SWOP2006_Coated5v2.icc
+	    Newer     		   3.1 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\SWOP2013C3_CRPC5.icc
+	    Newer     		   3.1 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\IDEAlliance\SWOP2013C5.icc
+	    Newer     		   50672	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\Heidelberg_License.pdf
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\ISOcoated_v2_300_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\ISOcoated_v2_eci.icc
+	    Newer     		  124004	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\ISOcoated_v2_to_PSOcoated_v3_DeviceLink.icc
+	    Newer     		  718672	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\ISOnewspaper26v4.icc
+	    Newer     		    1392	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\ISOnewspaper26v4_gr.icc
+	    Newer     		   1.4 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\ISOuncoatedyellowish.icc
+	    Newer     		   2.0 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSOcoated_v3.icc
+	    Newer     		  123976	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSOcoated_v3_to_ISOcoated_v2_DeviceLink.icc
+	    Newer     		   2.0 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSOuncoated_v3_FOGRA52.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_Coated_300_NPscreen_ISO12647_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_Coated_NPscreen_ISO12647_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_Coated_v2_300_Glossy_laminate_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_Coated_v2_300_Matte_laminate_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_INP_Paper_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_LWC_Improved_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_LWC_Standard_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_MFC_Paper_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_SNP_Paper_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_Uncoated_ISO12647_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\PSO_Uncoated_NPscreen_ISO12647_eci.icc
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\SC_paper_eci.icc
+	    Newer     		   1.2 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ICC\WAN-IFRA\WAN-IFRAnewspaper26v5.icc
+	    Newer     		    1338	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\legal\LicenseForBoost.txt
+	    Newer     		    2744	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\legal\LicenseForJasPer.txt
+	    Newer     		    4195	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\legal\LicenseForLibpng.txt
+	    Newer     		    1289	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\legal\LicenseForLibxml2.txt
+	    Newer     		    6281	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\legal\LicenseForOpenSSL.txt
+	    Newer     		   26828	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\legal\LicenseForQt.txt
+	    Newer     		    2062	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\legal\open_source_access_offer.txt
+	    Newer     		   41524	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\legal\TextInDocumentationOrOtherMaterials.txt
+	    Newer     		   1.4 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\ML2000StringFile_deDE.lng
+	    Newer     		   1.4 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\ML2000StringFile_esES.lng
+	    Newer     		   1.4 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\ML2000StringFile_frFR.lng
+	    Newer     		   1.4 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\ML2000StringFile_itIT.lng
+	    Newer     		   1.0 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\ML2000StringFile_jaJA.lng
+	    Newer     		   1.4 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\ML2000StringFile_ptBR.lng
+	    Newer     		 1045902	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\ML2000StringFile_zhCN.lng
+	    Newer     		 1030528	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\PL4000StringFile_deDE.lng
+	    Newer     		   1.0 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\PL4000StringFile_esES.lng
+	    Newer     		   1.0 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\PL4000StringFile_frFR.lng
+	    Newer     		 1028432	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\PL4000StringFile_itIT.lng
+	    Newer     		  770488	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\PL4000StringFile_jaJA.lng
+	    Newer     		 1030948	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\PL4000StringFile_ptBR.lng
+	    Newer     		  690702	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\Lng\PL4000StringFile_zhCN.lng
+	    Newer     		    6467	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\PDF Profiles\Check Esko Barcode type only inside cut contour.ppp
+	    Newer     		    3568	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\PDF Profiles\Check Esko Barcode type.ppp
+	    Newer     		    5252	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\PDF Profiles\Mix of restricted preflight and non-restricted preflight.ppp
+	    Newer     		    6667	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\PDF Profiles\Preflight text size and font x-height only inside cut contour.ppp
+	    Newer     		   5.9 m	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ReportTemplates\PitStopLibrary\Default\LibraryReportDefault.pdf
+	    Newer     		   11010	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\ReportTemplates\PitStopLibrary\Default\LibraryReportDefault.prefs
+	    Newer     		   37593	h:\DeskPack18_A5\Localisation_Win\Esko\PitStop.plugin\Resources\xml\PDFAExtensionSchemasDescriptionSchemas.xml
+	    Newer     		  283136	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\Autoreg.dll
+	    Newer     		   92160	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\BoostThreadShared.dll
+	    Newer     		   71168	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\CDLShared.dll
+	    Newer     		   1.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\EGXMPlibShared.dll
+	    Newer     		   7.6 m	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\ImageListStandalone.dll
+	    Newer     		   8.6 m	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\ImageListStandalone.dll_libFNP.dll
+	    Newer     		   19456	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\LPCTShared.dll
+	    Newer     		   28160	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\UTF8FSShared.dll
+	    Newer     		   39424	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\ViewerCompare.exe
+	    Newer     		  59.7 m	h:\DeskPack18_A5\Localisation_Win\Esko\Viewer.plugin\Contents\Windows\jre\lib\rt.jar
+	    Newer     		    1905	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\English.lproj\enterprisebrowser.asc
+	    Newer     		   11140	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\English.lproj\enterprisebrowsersdk.asc
+	    Newer     		    2159	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\French.lproj\enterprisebrowser.asc
+	    Newer     		   12067	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\French.lproj\enterprisebrowsersdk.asc
+	    Newer     		    2147	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\German.lproj\enterprisebrowser.asc
+	    Newer     		   12236	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\German.lproj\enterprisebrowsersdk.asc
+	    Newer     		    2052	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\Italian.lproj\enterprisebrowser.asc
+	    Newer     		   11451	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\Italian.lproj\enterprisebrowsersdk.asc
+	    Newer     		    2224	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\Japanese.lproj\enterprisebrowser.asc
+	    Newer     		   13472	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\Japanese.lproj\enterprisebrowsersdk.asc
+	    Newer     		    1905	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\ko.lproj\enterprisebrowser.asc
+	    Newer     		   10789	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\ko.lproj\enterprisebrowsersdk.asc
+	    Newer     		    6358	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\pl.lproj\enterprisebrowsersdk.asc
+	    Newer     		    1905	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\pt_BR.lproj\enterprisebrowser.asc
+	    Newer     		   10789	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\pt_BR.lproj\enterprisebrowsersdk.asc
+	    Newer     		    1905	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\ru.lproj\enterprisebrowser.asc
+	    Newer     		   10789	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\ru.lproj\enterprisebrowsersdk.asc
+	    Newer     		    2009	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\Spanish.lproj\enterprisebrowser.asc
+	    Newer     		   11944	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\Spanish.lproj\enterprisebrowsersdk.asc
+	    Newer     		    6212	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\sv.lproj\enterprisebrowsersdk.asc
+	    Newer     		    1755	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\zh_CN.lproj\enterprisebrowser.asc
+	    Newer     		   10188	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\zh_CN.lproj\enterprisebrowsersdk.asc
+	    Newer     		    1770	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\zh_TW.lproj\enterprisebrowser.asc
+	    Newer     		   10295	h:\DeskPack18_A5\Localisation_Win\Esko\WebCenterConnector.plugin\zh_TW.lproj\enterprisebrowsersdk.asc
+### 3 Difference or error 
+--- 2019-07-01 08:45:08.12 
+Plugin extraction finished without error.
+ 
+Sending the report... 
+Mailing result: 0 

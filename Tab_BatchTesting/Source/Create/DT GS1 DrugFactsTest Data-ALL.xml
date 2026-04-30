@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<artwork_content:artworkContentMessage xmlns:artwork_content="urn:gs1:ecom:artwork_content:xsd:3" xmlns:sh="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:gs1:ecom:artwork_content:xsd:3 Schemas/gs1/ecom/ArtworkContent.xsd">
+
+	<sh:StandardBusinessDocumentHeader>
+		<sh:HeaderVersion>1.0</sh:HeaderVersion>
+		<sh:Sender>
+			<sh:Identifier Authority="GS1"/>
+			<sh:ContactInformation>
+				<sh:Contact>Motofoko Ouje</sh:Contact>
+			</sh:ContactInformation>
+		</sh:Sender>
+		<sh:Receiver>
+			<sh:Identifier Authority="GS1"/>
+			<sh:ContactInformation>
+				<sh:Contact>Standa Kasny</sh:Contact>
+			</sh:ContactInformation>
+		</sh:Receiver>
+		<sh:DocumentIdentification>
+			<sh:Standard>GS1</sh:Standard>
+			<sh:TypeVersion>3.0.1</sh:TypeVersion>
+			<sh:InstanceIdentifier>100002</sh:InstanceIdentifier>
+			<sh:Type/>
+			<sh:CreationDateAndTime>2006-01-10T12:00:01.000-05:00</sh:CreationDateAndTime>
+		</sh:DocumentIdentification>
+	</sh:StandardBusinessDocumentHeader>
+	
+<!-- **************************** -->
+
+	<artworkContent>
+		
+		<creationDateTime>2010-11-30T22:00:00.000-05:00</creationDateTime>
+		<documentStatusCode>ORIGINAL</documentStatusCode>
+		<artworkContentIdentification>
+			<entityIdentification>Pack_Content1</entityIdentification>
+		</artworkContentIdentification>
+	    <artworkProjectIdentification>Drug Fact table testing data ALL</artworkProjectIdentification>
+		<artworkProjectName>Example GS1 IP XML</artworkProjectName>
+		<artworkContentSource>
+			<gln>1234567890128</gln>
+		</artworkContentSource>
+		<artworkContentRecipient>
+			<gln>9998881234564</gln>
+		</artworkContentRecipient>
+		
+<!-- >>>>>>>>>> POA >>>>>>>>>> -->
+
+		<artworkContentPieceOfArt>
+			<pieceOfArtIdentification>
+			    <entityIdentification>Drug Fact table testing data ALL</entityIdentification>
+			</pieceOfArtIdentification>
+			<artworkContentLocale>
+				<localeSequence>1</localeSequence>
+				<localeIdentifier>en-US</localeIdentifier>
+			</artworkContentLocale>
+						
+<!-- >>>>>>>>>> Copy (not mandatory) >>>>>>>>>> -->
+
+<!-- TABLE -->
+
+            <artworkContentStructuredCopyElement>
+                
+                <structuredCopyElementTypeCode codeListAgencyCode="9">NUTRITION_FACTS</structuredCopyElementTypeCode>
+                <instanceSequence>1</instanceSequence>
+                <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                <structuredCopyElementTemplate>
+                    <referenceIdentifier>Drug Fact table testing data ALL</referenceIdentifier>
+                </structuredCopyElementTemplate>
+
+<!--Active Ingredients section-->
+
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">HEADER_ACTIVEINGRED_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Active ingredients (in each tablet)</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ACTIVEINGRED_DRUGFACTS_NAME</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Active ingredient 1 1000 mg</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ACTIVEINGRED_DRUGFACTS_PURPOSE</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p></p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ACTIVEINGRED_DRUGFACTS_NAME</copyElementTypeCode>
+                    <instanceSequence>2</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Active ingredient 2 (12mg)*</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ACTIVEINGRED_DRUGFACTS_PURPOSE</copyElementTypeCode>
+                    <instanceSequence>2</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p></p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ACTIVEINGRED_DRUGFACTS_NAME</copyElementTypeCode>
+                    <instanceSequence>3</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Active ingredient 3 1916 mg</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ACTIVEINGRED_DRUGFACTS_PURPOSE</copyElementTypeCode>
+                    <instanceSequence>3</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Purpose 1-3</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">NOTES_ACTIVEINGRED_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>*Pellentesque ipsum. Aliquam erat volutpat.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                
+<!--END OF Active Ingredients section-->
+
+<!-- Use section -->
+
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">USE_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <h1>Uses</h1>
+                                <p>for the temporary relief of:</p>
+                                <ul>
+                                    <li>Morbi leo mi.</li>
+                                    <li>Lorem gravida vehicula.</li>
+                                    <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras elementum.</li>
+                                </ul>
+                                <b>Phasellus et lorem id felis nonummy placerat.</b>
+                                <i>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</i>
+                                <ul>
+                                    <li>Suspendisse nisl. Maecenas libero. Mauris tincidunt sem sed arcu. Nullam at arcu a est sollicitudin euismod. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Integer malesuada. Aliquam erat volutpat.</li>
+                                    <li>Nam sed tellus id magna elementum tincidunt. Mauris metus. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo.</li>
+                                    <li>Maecenas libero.</li>
+                                    <li>In rutrum.</li>
+                                    <li>Slevový portál Pepa.cz potichu změnil provozovatele.</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+ <!-- END OF Use section -->
+                
+<!--Warnings section-->
+
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ADMINROUTE_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>For external use only.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">REYESSYN_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <h2>Reye’s syndrome: </h2>
+                                <p>Etiam egestas wisi a erat. Aliquam ante. Nam quis nulla. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel
+                                    metus. Sed ac dolor sit amet purus malesuada congue.</p>
+                                <p>Suspendisse nisl. Maecenas libero. Mauris tincidunt sem sed arcu. Nullam at arcu a est sollicitudin euismod. Duis ante orci, molestie vitae vehicula venenatis,
+                                    tincidunt ac pede. Integer malesuada. Aliquam erat volutpat.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ALLERGY_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Allergy alert:</h2>
+                                <p>Slevový portál Pepa.cz potichu změnil provozovatele:</p>
+                                <ul>
+                                    <li>hives</li>
+                                    <li>facial swelling</li>
+                                    <li>asthma (wheezing)</li>
+                                    <li>shock</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ASTHMA_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Asthma warning: </h2>
+                                <p>Phasellus et lorem id felis nonummy placerat:</p>
+                                <ul>
+                                    <li>Fusce aliquam vestibulum ipsum.</li>
+                                    <li>Morbi leo mi.</li>
+                                    <li>Lorem gravida vehicula.</li>
+                                    <li>Maecenas libero.</li>
+                                    <li>In rutrum.</li>
+                                    <li>Etiam bibendum elit eget erat.</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">FLAM_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Flammable, keep away from fire/flame</h2>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">CHOKING_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Dangerous if swallowed or suffocated.</h2>
+                                <p>Keep away of children under 3 years.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">LIVER_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Liver warning: </h2>
+                                <p>Phasellus et lorem id felis nonummy placerat.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">STOMBLEED_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Stomach bleeding warning: </h2>
+                                <p>This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you</p>
+                                <ul>
+                                    <li>are age 60 or older</li>
+                                    <li>have had stomach ulcers or bleeding problems</li>
+                                    <li>take a blood thinning (anticoagulant) or steroid drug</li>
+                                    <li>take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others)</li>
+                                    <li>have 3 or more alcoholic drinks every day while using this product</li>
+                                    <li>take more or for a longer time than directed</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">SORETHROAT_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Sore throat warning: </h2>
+                                <p>Phasellus et lorem id felis nonummy placerat:</p>
+                                <ul>
+                                    <li>Fusce aliquam vestibulum ipsum.</li>
+                                    <li>Morbi leo mi.</li>
+                                    <li>Lorem gravida vehicula.</li>
+                                    <li>Maecenas libero.</li>
+                                    <li>In rutrum.</li>
+                                    <li>Etiam bibendum elit eget erat.</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DOSAGE_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Žluťoučký koníček pěl hněvivě hořké ódy: </h2>
+                                <p>Phasellus et lorem id felis nonummy placerat:</p>
+                                <ul>
+                                    <li>Morbi leo mi.</li>
+                                    <li>Etiam bibendum elit eget erat.</li>
+                                </ul>
+                                <p>Etiam egestas wisi a erat. Aliquam ante. Nam quis nulla. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel
+                                    metus. Sed ac dolor sit amet purus malesuada congue.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">STD_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Sexually transmitted diseases alert: </h2>
+                                <ul>
+                                    <li>Morbi leo mi.</li>
+                                    <li>Lorem gravida vehicula.</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DONOTUSE_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Do not use</h2>
+                                <p>if you are not enough smart, an then:</p>
+                                <ul>
+                                    <li>if you are allergic to aspirin or any other pain reliever/fever reducer</li>
+                                    <li>if you have ever had an allergic reaction to this product or any of its ingredients</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ASKDRIF_WARN_DRUGFACTS_ADULT</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Ask a doctor before use if</h2>
+                                <ul>
+                                    <li>stomach bleeding warning applies to you</li>
+                                    <li>you have a history of stomach problems, such as heartburn</li>
+                                    <li>you have high blood pressure, heart disease, liver cirrhosis, or kidney disease</li>
+                                    <li>you are taking a diuretic</li>
+                                    <li>you and you have asthma</li>
+                                    <li>you have a sodium-restricted diet</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ASKDRIF_WARN_DRUGFACTS_CHILD</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>For children under 12, ask a doctor before use if</h2>
+                                <ul>
+                                    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                    <li>Fusce aliquam vestibulum ipsum.</li>
+                                    <li>Morbi leo mi.</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ASKDRPHAIF_WARN_DRUGFACTS_ADULT</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Ask a doctor or pharmacist before use if you are</h2>
+                                <ul>
+                                    <li>presently taking a prescription drug. Antacids may interact with certain prescription drugs.</li>
+                                    <li>taking a prescription drug for diabetes, gout, or arthritis</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ASKDRPHAIF_WARN_DRUGFACTS_CHILD</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>For children under 12, ask a doctor or pharmacist before use if you are</h2>
+                                <ul>
+                                    <li>Phasellus et lorem id felis nonummy placerat.</li>
+                                    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">WHENUSING_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>When using this product</h2>
+                                <p>do not exceed recommended dosage</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">STOPUSE_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Stop use and ask a doctor if</h2>
+                                <ul>
+                                    <li>an allergic reaction occurs. Seek medical help right away.</li>
+                                    <li>you experience any of the following signs of stomach bleeding:</li>
+                                    <ul>
+                                        <li>feel faint</li>
+                                        <li>vomit blood</li>
+                                        <li>have bloody or black stools</li>
+                                        <li>have stomach pain that does not get better</li>
+                                    </ul>
+                                    <li>symptoms get worse or last more than 10 days</li>
+                                    <li>redness or swelling is present</li>
+                                    <li>ringing in the ears or a loss of hearing occurs</li>
+                                    <li>new symptoms occur</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">OTHER_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>If pregnant or breast-feeding,</h2>
+                                <p>a health professional before use. <b>It is especially important not to use aspirin during the
+                                    last 3 months of pregnancy unless definitely directed to do
+                                    so by a doctor because it may cause problems in the unborn
+                                    child or complications during delivery.</b></p>
+                                <h2>Keep out of reach of children.</h2>
+                                <p>In case of overdose, get medical help or contact a Poison Control Center right away.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">PREGBF_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>If pregnant or breast-feeding, SEPARATE</h2>
+                                <p>a health professional before use. <b>It is especially important not to use aspirin during the
+                                    last 3 months of pregnancy unless definitely directed to do
+                                    so by a doctor because it may cause problems in the unborn
+                                    child or complications during delivery.</b></p>
+                             </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">KEEPOUTCH_WARN_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Keep out of reach of children. SEPARATE</h2>
+                                <p>In case of overdose, get medical help or contact a Poison Control Center right away.  Žluťoučký koníček pěl hněvivě hořké ódy.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <!--Directions section-->
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">USAGE_DIRECTIONS_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <h1>Directions</h1>
+                                <ul>
+                                    <li>Fully dissolve 2 tablets in 4 ounces of water before taking:</li>
+                                 </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_RECIPIENT</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <ul>
+                                    <li>Adults and children 12 years and over</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_DOSAGE</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>2 tablets every 4 hours, or as directed by a doctor</p> 
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_NOTE</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>do not exceed 8 tablets in 24 hours</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_RECIPIENT</copyElementTypeCode>
+                    <instanceSequence>2</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <ul>
+                                    <li>Adults 60 years and over</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_DOSAGE</copyElementTypeCode>
+                    <instanceSequence>2</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>2 tablets every 4 hours, or as directed by a doctor</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+               <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_NOTE</copyElementTypeCode>
+                    <instanceSequence>2</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>do not exceed 4 tablets in 24 hours</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_RECIPIENT</copyElementTypeCode>
+                    <instanceSequence>3</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <ul>
+                                    <li>Children under 12 years</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_DOSAGE</copyElementTypeCode>
+                    <instanceSequence>3</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>consult a doctor</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_RECIPIENT</copyElementTypeCode>
+                    <instanceSequence>4</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <ul>
+                                    <li>Recipient 4 link</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_DOSAGE</copyElementTypeCode>
+                    <instanceSequence>4</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Dosage 4 link</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">DIRECTIONS_DRUGFACTS_NOTE</copyElementTypeCode>
+                    <instanceSequence>4</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Note 4 link</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <!--Other information section-->
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">OTHERINFO_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <h1>Other information</h1>
+                                <ul>
+                                    <li><b>each tablet contains:</b> sodium 567 mg</li>
+                                    <li>store at room temperature. Avoid excessive heat.</li>
+                                    <li>Alka-Seltzer in water contains principally the antacid sodium citrate and the analgesic sodium acetylsalicylate</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">EACH_OTHERINFO_DRUGFACTS_INGREDIENT</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <p>Other info Ingredient 1</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">EACH_OTHERINFO_DRUGFACTS_VALUE</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <p>OI Value 1</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">EACH_OTHERINFO_DRUGFACTS_INGREDIENT</copyElementTypeCode>
+                    <instanceSequence>2</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <p>Other info Ingredient 2</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">EACH_OTHERINFO_DRUGFACTS_VALUE</copyElementTypeCode>
+                    <instanceSequence>2</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <p>OI Value 2</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">EACH_OTHERINFO_DRUGFACTS_INGREDIENT</copyElementTypeCode>
+                    <instanceSequence>3</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <p>Other info Ingredient 3</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">EACH_OTHERINFO_DRUGFACTS_VALUE</copyElementTypeCode>
+                    <instanceSequence>3</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <p>OI Value 3</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">EACH_OTHERINFO_DRUGFACTS_NOTE</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <p>OI Note</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">PHAC_OTHERINFO_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Contains phenylalanine and aspartame.</h2>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ADD_OTHERINFO_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <h2>Additional information</h2>
+                                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras elementum.</p>
+                                <p>Etiam egestas wisi a erat. Aliquam ante. Nam quis nulla. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Sed ac dolor sit amet purus malesuada congue.</p>
+                                <p>Suspendisse nisl. Maecenas libero. Mauris tincidunt sem sed arcu. Nullam at arcu a est sollicitudin euismod. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Integer malesuada. Aliquam erat volutpat.</p>
+                                <p>Nam sed tellus id magna elementum tincidunt. Mauris metus. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo.</p>
+                                <p>Maecenas libero. In rutrum. Etiam bibendum elit eget erat. Morbi leo mi. Lorem gravida vehicula.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <!--Inactive ingredients section-->
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">INACTIVEINGRED_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <h1>Inactive ingredients</h1>
+                                <p>Phasellus et lorem id, felis nonummy placerat, lorem ipsum, dolor sit amet, consectetuer adipiscing elit, 
+                                    fusce aliquam, vestibulum ipsum, etiam egestas wisi a erat, liquam ante, nam quis nulla, auris suscipit, ligula sit amet pharetra.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <!--Questions section-->
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">QUESTIONS_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <h1>Questions or comments?</h1>
+                                <ul>
+                                    <li><b>1-800-986-0369</b> (Mon – Fri 9AM – 5PM EST)</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <!--Footnotes-->
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">FOOTNOTES_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title></title>
+                            </head>
+                            <body>
+                                <p>* Etiam egestas wisi a erat. Aliquam ante. Nam quis nulla. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Sed ac dolor sit amet purus malesuada congue.</p>
+                                <p>** Suspendisse nisl. Maecenas libero. Mauris tincidunt sem sed arcu. Nullam at arcu a est sollicitudin euismod. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Integer malesuada. Aliquam erat volutpat.</p>
+                                <p>*** Nam sed tellus id magna elementum tincidunt. Mauris metus. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Žluťoučký koníček pěl hněvivě hořké ódy.</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <!--END OF table-->
+                
+            </artworkContentStructuredCopyElement>
+
+
+<!-- <<<<<<<<<< Copy (not mandatory) <<<<<<<<<< -->
+			
+		</artworkContentPieceOfArt>
+		
+<!-- <<<<<<<<<< POA <<<<<<<<<< -->
+
+	</artworkContent>
+</artwork_content:artworkContentMessage>

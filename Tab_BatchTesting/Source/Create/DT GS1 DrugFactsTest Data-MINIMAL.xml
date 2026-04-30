@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<artwork_content:artworkContentMessage xmlns:artwork_content="urn:gs1:ecom:artwork_content:xsd:3" xmlns:sh="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:gs1:ecom:artwork_content:xsd:3 Schemas/gs1/ecom/ArtworkContent.xsd">
+
+	<sh:StandardBusinessDocumentHeader>
+		<sh:HeaderVersion>1.0</sh:HeaderVersion>
+		<sh:Sender>
+			<sh:Identifier Authority="GS1"/>
+			<sh:ContactInformation>
+				<sh:Contact>Motofoko Ouje</sh:Contact>
+			</sh:ContactInformation>
+		</sh:Sender>
+		<sh:Receiver>
+			<sh:Identifier Authority="GS1"/>
+			<sh:ContactInformation>
+				<sh:Contact>Standa Kasny</sh:Contact>
+			</sh:ContactInformation>
+		</sh:Receiver>
+		<sh:DocumentIdentification>
+			<sh:Standard>GS1</sh:Standard>
+			<sh:TypeVersion>3.0.1</sh:TypeVersion>
+			<sh:InstanceIdentifier>100002</sh:InstanceIdentifier>
+			<sh:Type/>
+			<sh:CreationDateAndTime>2006-01-10T12:00:01.000-05:00</sh:CreationDateAndTime>
+		</sh:DocumentIdentification>
+	</sh:StandardBusinessDocumentHeader>
+	
+<!-- **************************** -->
+
+	<artworkContent>
+		
+		<creationDateTime>2010-11-30T22:00:00.000-05:00</creationDateTime>
+		<documentStatusCode>ORIGINAL</documentStatusCode>
+		<artworkContentIdentification>
+			<entityIdentification>Pack_Content1</entityIdentification>
+		</artworkContentIdentification>
+	    <artworkProjectIdentification>Drug Fact table testing data MINIMAL</artworkProjectIdentification>
+		<artworkProjectName>Example GS1 IP XML</artworkProjectName>
+		<artworkContentSource>
+			<gln>1234567890128</gln>
+		</artworkContentSource>
+		<artworkContentRecipient>
+			<gln>9998881234564</gln>
+		</artworkContentRecipient>
+		
+<!-- >>>>>>>>>> POA >>>>>>>>>> -->
+
+		<artworkContentPieceOfArt>
+			<pieceOfArtIdentification>
+			    <entityIdentification>Drug Fact table testing data MINIMAL</entityIdentification>
+			</pieceOfArtIdentification>
+			<artworkContentLocale>
+				<localeSequence>1</localeSequence>
+				<localeIdentifier>en-US</localeIdentifier>
+			</artworkContentLocale>
+						
+<!-- >>>>>>>>>> Copy (not mandatory) >>>>>>>>>> -->
+
+<!-- TABLE -->
+
+            <artworkContentStructuredCopyElement>
+                
+                <structuredCopyElementTypeCode codeListAgencyCode="9">NUTRITION_FACTS</structuredCopyElementTypeCode>
+                <instanceSequence>1</instanceSequence>
+                <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                <structuredCopyElementTemplate>
+                    <referenceIdentifier>Drug Fact table testing data MINIMAL</referenceIdentifier>
+                </structuredCopyElementTemplate>
+
+<!--Active Ingredients section-->
+
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">HEADER_ACTIVEINGRED_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Active ingredients (in each tablet)</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ACTIVEINGRED_DRUGFACTS_NAME</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Active ingredient 1 1000 mg</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">ACTIVEINGRED_DRUGFACTS_PURPOSE</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <p>Purpose 1</p>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+                
+                <!-- Use section -->
+                
+                <artworkContentCopyElement>
+                    <copyElementTypeCode codeListAgencyCode="9">USE_DRUGFACTS</copyElementTypeCode>
+                    <instanceSequence>1</instanceSequence>
+                    <localeSequence>1</localeSequence>
+                    <isContentApproved>TRUE</isContentApproved>
+                    <forPlacementOnly>FALSE</forPlacementOnly>
+                    <expectedNumberOfOccurrences>1</expectedNumberOfOccurrences>
+                    <textContent>
+                        <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+                            <head>
+                                <title/>
+                            </head>
+                            <body>
+                                <h1>Uses</h1>
+                                <p>for the temporary relief of:</p>
+                                <ul>
+                                    <li>Morbi leo mi.</li>
+                                    <li>Lorem gravida vehicula.</li>
+                                    <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras elementum.</li>
+                                </ul>
+                                <b>Phasellus et lorem id felis nonummy placerat.</b>
+                                <i>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</i>
+                                <ul>
+                                    <li>Suspendisse nisl. Maecenas libero. Mauris tincidunt sem sed arcu. Nullam at arcu a est sollicitudin euismod. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Integer malesuada. Aliquam erat volutpat.</li>
+                                    <li>Nam sed tellus id magna elementum tincidunt. Mauris metus. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo.</li>
+                                    <li>Maecenas libero.</li>
+                                    <li>In rutrum.</li>
+                                    <li>Etiam bibendum elit eget erat.</li>
+                                </ul>
+                            </body>
+                        </html>
+                    </textContent>
+                    <sourceReference>
+                        <sourceName>CMS1</sourceName>
+                        <referenceIdentifier/>
+                    </sourceReference>
+                </artworkContentCopyElement>
+
+                <!--END OF table-->
+                
+            </artworkContentStructuredCopyElement>
+
+
+<!-- <<<<<<<<<< Copy (not mandatory) <<<<<<<<<< -->
+			
+		</artworkContentPieceOfArt>
+		
+<!-- <<<<<<<<<< POA <<<<<<<<<< -->
+
+	</artworkContent>
+</artwork_content:artworkContentMessage>

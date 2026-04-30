@@ -1,0 +1,6 @@
+[task]
+name=NDLModelTask.ImageCompareTask
+
+[params]
+noise=50
+minpix=200

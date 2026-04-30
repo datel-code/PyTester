@@ -1,0 +1,5 @@
+INPUT=../../../QA/Create-test/
+FILTER=*.tif
+REFERENCE=../../../Reference/ReferenceTIFF/Create/
+TASK=..\Render500
+COMPARE=..\ImageCompare

@@ -1,0 +1,5 @@
+INPUT=\\ESKW210614\Tab_BatchTesting\Processed\Tab\Create-US 
+FILTER=*.pdf
+REFERENCE=\\ESKW210614\Tab_BatchTesting\Reference\ReferenceTIFF\Create-US 
+TASK=..\Render500
+COMPARE=..\ImageCompare

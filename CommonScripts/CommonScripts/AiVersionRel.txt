@@ -1,0 +1,15 @@
+Exception calling "GetVersionInfo" with "1" argument(s): "Illegal characters in path."
+At line:1 char:1
++ [System.Diagnostics.FileVersionInfo]::GetVersionInfo('c:\Program File ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentException
+ 
+.
+Exception calling "GetVersionInfo" with "1" argument(s): "Illegal characters in path."
+At line:1 char:1
++ [System.Diagnostics.FileVersionInfo]::GetVersionInfo('c:\Program File ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentException
+ 

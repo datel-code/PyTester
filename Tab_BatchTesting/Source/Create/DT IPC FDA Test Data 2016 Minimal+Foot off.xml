@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CopyContent Version="2.0" xmlns="http://www.esko.com/IPCSchema_1_0">
+	<RevisionHistory RevisionNumber="1.1">
+		<Revision Author="Nathalie Depuydt" RevisionNumber="1.0" TimeStamp="2009-01-19T11:00:00+01:00" Type="Original"/>
+	</RevisionHistory>
+	<Project ProjectID="P001">
+		<POAs>
+			<POA ID="Comon" Locales="en-US" Name="Comon CopyElements"/>
+		</POAs>
+	</Project>
+	<Copy>
+		<CopyElement CopyElementType="Generic" ID="CP001" POAs="Comon">
+			<body>
+				<p>Super Crispy</p>
+			</body>
+		</CopyElement>
+	</Copy>
+	<Barcodes>
+		<Barcode ID="BC1" Panel="Left">
+			<IdentificationField Encoding="Barcode" EncodingDetails="EAN-13" Value="0123456789128"/>
+		</Barcode>
+	</Barcodes>
+	<Tables>
+		<NutritionFacts Format="Standard-Vertical-Column" ID="NF1" Locale="en-US" POAs="comon" RegulatoryBody="IPC Test Data 2016 TwoLangs Triple Declaration Table Data" RegulatoryStandard="21CFR">
+		
+			<ConsumptionContext>
+				<Name>First</Name>
+				<ServingSize Locale="en-US">1-1</ServingSize>
+				<ServingSize Locale="es-US">1s-1</ServingSize>
+				<ServingMetricQuantity Locale="en-US">1-1a</ServingMetricQuantity>
+				<ServingMetricQuantity Locale="es-US">1s-1a</ServingMetricQuantity>
+				<ServingsPerContainer Locale="en-US">1-2</ServingsPerContainer>
+				<ServingsPerContainer Locale="es-US">1s-2</ServingsPerContainer>
+				<Nutrients>
+					<Calories>
+						<TotalCalories>1-5</TotalCalories>
+						<CaloriesFromFat>1-6</CaloriesFromFat>
+						<CaloriesFromSaturatedFat>1-7</CaloriesFromSaturatedFat>
+					</Calories>
+					<FatContent>
+						<TotalFat>
+							<Measure>1-8m</Measure>
+							<PDV>1-8p</PDV>
+						</TotalFat>
+						<SaturatedFat>
+							<Measure>1-9m</Measure>
+							<PDV>1-9p</PDV>
+						</SaturatedFat>
+						<TransFat>
+							<Measure>1-10m</Measure>
+						</TransFat>
+						<PolyunsaturatedFat>
+							<Measure>1-11m</Measure>
+						</PolyunsaturatedFat>
+						<MonounsaturatedFat>
+							<Measure>1-14m</Measure>
+						</MonounsaturatedFat>
+					</FatContent>
+					<Cholesterol>
+						<Measure>1-16m</Measure>
+						<PDV>1-16p</PDV>
+						<LessThanPrefix>1-l6l</LessThanPrefix>
+					</Cholesterol>
+					<Sodium>
+						<Measure>1-17m</Measure>
+						<PDV>1-17p</PDV>
+					</Sodium>
+					<Fluoride>
+						<Measure>1-17am</Measure>
+					</Fluoride>
+					<Carbohydrate>
+						<TotalCarbohydrate>
+							<Measure>1-18m</Measure>
+							<PDV>1-18p</PDV>
+							<LessThanPrefix>1-l8l</LessThanPrefix>
+						</TotalCarbohydrate>
+						<DietaryFiber>
+							<Measure>1-19m</Measure>
+							<PDV>1-19p</PDV>
+							<LessThanPrefix>1-l9l</LessThanPrefix>
+						</DietaryFiber>
+						<SolubleFiber>
+							<Measure>1-20m</Measure>
+							<LessThanPrefix>1-20l</LessThanPrefix>
+						</SolubleFiber>
+						<InsolubleFiber>
+							<Measure>1-21m</Measure>
+							<LessThanPrefix>1-21l</LessThanPrefix>
+						</InsolubleFiber>
+						<Sugars>
+							<Measure>1-22m</Measure>
+							<LessThanPrefix>1-22l</LessThanPrefix>
+						</Sugars>
+						<AddedSugars>
+							<Measure>1-22am</Measure>
+							<PDV>1-22ap</PDV>
+							<LessThanPrefix>1-17al</LessThanPrefix>
+						</AddedSugars>
+						<SugarAlcohol>
+							<Measure>1-23m</Measure>
+							<LessThanPrefix>1-23l</LessThanPrefix>
+						</SugarAlcohol>
+						<OtherCarbohydrate>
+							<Measure>1-19m</Measure>
+							<LessThanPrefix>1-19l</LessThanPrefix>
+						</OtherCarbohydrate>
+					</Carbohydrate>
+					<Protein>
+						<Measure>1-26m</Measure>
+						<PDV>1-26p</PDV>
+						<LessThanPrefix>1-26l</LessThanPrefix>
+					</Protein>
+					<VitaminMinerals>
+						<VitaminD>
+							<Measure>1-27m</Measure>
+							<PDV>1-27p</PDV>
+						</VitaminD>
+						<Calcium>
+							<Measure>1-28m</Measure>
+							<PDV>1-28p</PDV>
+						</Calcium>
+						<Iron>
+							<Measure>1-29m</Measure>
+							<PDV>1-29p</PDV>
+						</Iron>
+						<Potassium>
+							<Measure>1-30m</Measure>
+							<PDV>1-30p</PDV>
+						</Potassium>
+					</VitaminMinerals>
+				</Nutrients>
+			</ConsumptionContext>
+			
+			<ConsumptionContext>
+				<Name>Second</Name>
+				<ServingSize Locale="en-US">2-1</ServingSize>
+				<ServingSize Locale="es-US">2s-1</ServingSize>
+				<ServingMetricQuantity Locale="en-US">2-1a</ServingMetricQuantity>
+				<ServingMetricQuantity Locale="es-US">2s-1a</ServingMetricQuantity>
+				<ServingsPerContainer Locale="en-US">2-2</ServingsPerContainer>
+				<ServingsPerContainer Locale="es-US">2s-2</ServingsPerContainer>
+				<Nutrients>
+					<Calories>
+						<TotalCalories>2-5</TotalCalories>
+						<CaloriesFromFat>2-6</CaloriesFromFat>
+						<CaloriesFromSaturatedFat>2-7</CaloriesFromSaturatedFat>
+					</Calories>
+					<FatContent>
+						<TotalFat>
+							<Measure>2-8m</Measure>
+							<PDV>2-8p</PDV>
+						</TotalFat>
+						<SaturatedFat>
+							<Measure>2-9m</Measure>
+							<PDV>2-9p</PDV>
+						</SaturatedFat>
+						<TransFat>
+							<Measure>2-10m</Measure>
+						</TransFat>
+						<PolyunsaturatedFat>
+							<Measure>2-11m</Measure>
+						</PolyunsaturatedFat>
+						<MonounsaturatedFat>
+							<Measure>2-14m</Measure>
+						</MonounsaturatedFat>
+					</FatContent>
+					<Cholesterol>
+						<Measure>2-16m</Measure>
+						<PDV>2-16p</PDV>
+					</Cholesterol>
+					<Sodium>
+						<Measure>2-17m</Measure>
+						<PDV>2-17p</PDV>
+					</Sodium>
+					<Fluoride>
+						<Measure>2-17am</Measure>
+					</Fluoride>
+					<Carbohydrate>
+						<TotalCarbohydrate>
+							<Measure>2-18m</Measure>
+							<PDV>2-18p</PDV>
+						</TotalCarbohydrate>
+						<DietaryFiber>
+							<Measure>2-19m</Measure>
+							<PDV>2-19p</PDV>
+						</DietaryFiber>
+						<SolubleFiber>
+							<Measure>2-20m</Measure>
+						</SolubleFiber>
+						<InsolubleFiber>
+							<Measure>2-21m</Measure>
+						</InsolubleFiber>
+						<Sugars>
+							<Measure>2-22m</Measure>
+							<LessThanPrefix>2-22l</LessThanPrefix>
+						</Sugars>
+						<AddedSugars>
+							<Measure>2-22am</Measure>
+							<PDV>2-22ap</PDV>
+							<LessThanPrefix>2-17al</LessThanPrefix>
+						</AddedSugars>
+						<SugarAlcohol>
+							<Measure>2-23m</Measure>
+							<LessThanPrefix>2-23l</LessThanPrefix>
+						</SugarAlcohol>
+						<OtherCarbohydrate>
+							<Measure>2-19m</Measure>
+							<LessThanPrefix>2-19l</LessThanPrefix>
+						</OtherCarbohydrate>
+					</Carbohydrate>
+					<Protein>
+						<Measure>2-26m</Measure>
+						<PDV>2-26p</PDV>
+					</Protein>
+					<VitaminMinerals>
+						<VitaminD>
+							<Measure>2-27m</Measure>
+							<PDV>2-27p</PDV>
+						</VitaminD>
+						<Calcium>
+							<Measure>2-28m</Measure>
+							<PDV>2-28p</PDV>
+						</Calcium>
+						<Iron>
+							<Measure>2-29m</Measure>
+							<PDV>2-29p</PDV>
+						</Iron>
+						<Potassium>
+							<Measure>2-30m</Measure>
+							<PDV>2-30p</PDV>
+						</Potassium>
+					</VitaminMinerals>
+				</Nutrients>
+			</ConsumptionContext>
+
+			<ConsumptionContext>
+				<Name Locale="en-US">Third</Name>
+				<ServingSize Locale="en-US">3-1</ServingSize>
+				<ServingSize Locale="es-US">3s-1</ServingSize>
+				<ServingMetricQuantity Locale="en-US">3-1a</ServingMetricQuantity>
+				<ServingMetricQuantity Locale="es-US">3s-1a</ServingMetricQuantity>
+				<ServingsPerContainer Locale="en-US">3-2</ServingsPerContainer>
+				<ServingsPerContainer Locale="es-US">3s-2</ServingsPerContainer>
+				<Nutrients>
+					<Calories>
+						<TotalCalories>3-5</TotalCalories>
+						<CaloriesFromFat>3-6</CaloriesFromFat>
+						<CaloriesFromSaturatedFat>3-7</CaloriesFromSaturatedFat>
+					</Calories>
+					<FatContent>
+						<TotalFat>
+							<Measure>3-8m</Measure>
+							<PDV>3-8p</PDV>
+						</TotalFat>
+						<SaturatedFat>
+							<Measure>3-9m</Measure>
+							<PDV>3-9p</PDV>
+						</SaturatedFat>
+						<TransFat>
+							<Measure>3-10m</Measure>
+						</TransFat>
+						<PolyunsaturatedFat>
+							<Measure>3-11m</Measure>
+						</PolyunsaturatedFat>
+						<MonounsaturatedFat>
+							<Measure>3-14m</Measure>
+						</MonounsaturatedFat>
+					</FatContent>
+					<Cholesterol>
+						<Measure>3-16m</Measure>
+						<PDV>3-16p</PDV>
+					</Cholesterol>
+					<Sodium>
+						<Measure>3-17m</Measure>
+						<PDV>3-17p</PDV>
+					</Sodium>
+					<Fluoride>
+						<Measure>3-17am</Measure>
+					</Fluoride>
+					<Carbohydrate>
+						<TotalCarbohydrate>
+							<Measure>3-18m</Measure>
+							<PDV>3-18p</PDV>
+						</TotalCarbohydrate>
+						<DietaryFiber>
+							<Measure>3-19m</Measure>
+							<PDV>3-19p</PDV>
+						</DietaryFiber>
+						<SolubleFiber>
+							<Measure>3-20m</Measure>
+						</SolubleFiber>
+						<InsolubleFiber>
+							<Measure>3-21m</Measure>
+						</InsolubleFiber>
+						<Sugars>
+							<Measure>3-22m</Measure>
+							<LessThanPrefix>3-22l</LessThanPrefix>
+						</Sugars>
+						<AddedSugars>
+							<Measure>3-22am</Measure>
+							<PDV>3-22ap</PDV>
+							<LessThanPrefix>3-17al</LessThanPrefix>
+						</AddedSugars>
+						<SugarAlcohol>
+							<Measure>3-23m</Measure>
+							<LessThanPrefix>3-23l</LessThanPrefix>
+						</SugarAlcohol>
+						<OtherCarbohydrate>
+							<Measure>3-19m</Measure>
+							<LessThanPrefix>3-19l</LessThanPrefix>
+						</OtherCarbohydrate>
+					</Carbohydrate>
+					<Protein>
+						<Measure>3-26m</Measure>
+						<PDV>3-26p</PDV>
+					</Protein>
+					<VitaminMinerals>
+						<VitaminD>
+							<Measure>3-27m</Measure>
+							<PDV>3-27p</PDV>
+						</VitaminD>
+						<Calcium>
+							<Measure>3-28m</Measure>
+							<PDV>3-28p</PDV>
+						</Calcium>
+						<Iron>
+							<Measure>3-29m</Measure>
+							<PDV>3-29p</PDV>
+						</Iron>
+						<Potassium>
+							<Measure>3-30m</Measure>
+							<PDV>3-30p</PDV>
+						</Potassium>
+					</VitaminMinerals>
+				</Nutrients>
+			</ConsumptionContext>
+			
+			<Footnotes CaloricConversion="true" SimplifiedPDVFootnote="true">
+<!--				<DeclarationContext Locale="en-US">DC-Foot</DeclarationContext>
+				<InsignificantSource Locale="en-US">Insig-Foot</InsignificantSource>
+				<DeclarationContext Locale="es-US">Es DC-Foot</DeclarationContext>
+				<InsignificantSource Locale="es-US">Es Insig-Foot</InsignificantSource>-->
+			</Footnotes>
+			
+		</NutritionFacts>
+	</Tables>
+</CopyContent>

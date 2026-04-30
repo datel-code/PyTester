@@ -1,0 +1,5 @@
+INPUT=\\ESKW210614\Tab_BatchTesting\Processed\Tab\Extract-CFIA-test 
+FILTER=*.pdf
+REFERENCE=\\ESKW210614\Tab_BatchTesting\Reference\ReferenceTIFF\Extract-CFIA-test 
+TASK=..\Render500
+COMPARE=..\ImageCompare

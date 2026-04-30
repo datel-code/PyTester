@@ -1,0 +1,5 @@
+INPUT=\\PRASRV01\Tab_BatchTesting\Processed\Tab-MAC\Regenerate 
+FILTER=*.tif
+REFERENCE=\\PRASRV01\Tab_BatchTesting\Reference\ReferenceTIFF\Regenerate 
+TASK=..\Render300
+COMPARE=..\ImageCompare

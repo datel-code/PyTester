@@ -1,0 +1,5 @@
+INPUT=\\ESKW210614\Tab_BatchTesting\Processed\Tab-MAC\Create 
+FILTER=*.tif
+REFERENCE=\\ESKW210614\Tab_BatchTesting\Reference\ReferenceTIFF\Create 
+TASK=..\Render500
+COMPARE=..\ImageCompare

@@ -1,0 +1,5 @@
+INPUT=\\ESKW210614\Tab_BatchTesting\Processed\Tab\Create-DrugsSupp 
+FILTER=*.pdf
+REFERENCE=\\ESKW210614\Tab_BatchTesting\Reference\ReferenceTIFF\Create-DrugsSupp 
+TASK=..\Render500
+COMPARE=..\ImageCompare

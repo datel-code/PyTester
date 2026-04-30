@@ -1,0 +1,5 @@
+FileName.ct :                                                             KNOWN/TODO/NOISE/NOWARN/IGNORE  xKpix 202001xx Description
+0001Demo_Drupa2012_2gridsCS7.ct : TODO 5294Kpix 20201016 Zvetsily se bunky samotneho gridu, marky jsou stejne
+0002Demo_Mandarine_Brew_CS7.ct : NOISE 1Kpix 20201016 Pouze sum tvoreny parou nad kafem
+0007Cust_Pattern_CS7.ct : NOISE 795pix 20201016 Pouze sum
+0003Cust_Pedigree_HorizontalDistrib_CS7.ct : TODO Predelat referencni soubor

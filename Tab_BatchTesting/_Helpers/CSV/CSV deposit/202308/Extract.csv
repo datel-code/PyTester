@@ -1,0 +1,346 @@
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\0479_23753_COM_DW_Bx.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Vertical Dual Declaration;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\301229012_SLEEVE_16ctSPORTS.ai;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Reduced;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\38455-05A.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Full;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\41106_Chef_4State_Hi.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Full;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\7467_23228_GCM_DW_Bx.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Vertical Dual Declaration;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\BP NuttyBar 2-03-29-W.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Full;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CJ09116A 8oz Cream Cheese Singles.ai;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Reduced;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\Coca-Cola Nutrition Facts Box Update Compilation 11.10.16_v12_A.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Simplified;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\Coca-Cola Nutrition Facts Box Update Compilation 11.10.16_v12_B.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Simplified;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\Coca-Cola Nutrition Facts Box Update Compilation 11.10.16_v12_C.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Simplified;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\Coca-Cola Nutrition Facts Box Update Compilation 11.10.16_v12_D.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Simplified;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\Coca-Cola Nutrition Facts Box Update Compilation 11.10.16_v12_E.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Simplified;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\Coca-Cola Nutrition Facts Box Update Compilation 11.10.16_v12_F.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Simplified;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\DE08368A 8oz HoneyNut_tub.ai;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Reduced;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\EC02780C 1lb PPCP Cover.ai;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Full;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\EE08276A 8oz Cream Ch Crtn.ai;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Reduced;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ES09106A 24_1oz Light String Ch Carton.ai;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Full;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\Linear_14-5688 1 oz Ranch FP.ai;FDA Nutrition Facts Tables;(GS1) U.S. Linear;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\MAZOCFIANutrition_3.xBilingual.ai;CFIA Nutrition Facts Tables;(GS1) 3.x Bilingual Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\MAZOFDA2016Vertical_VerticalStandard.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\MAZOFDANutritionFactsTablesChldrn_VerticalDualDeclaration.ai;FDA Nutrition Facts Tables for Children Under 4;(GS1) U.S. Standard Vertical Dual Declaration for Children Under 4;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\MAZOFDANutritionFacts_Bilingual_Less.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\MAZOFDANutritionFacts_USStandardBilingual.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\MAZOFDANutritionFacts_USTabularFull.ai;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Full;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\MAZOFDANutritionMulti2016_VerticalThreeAggreg.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns Aggregate;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\MAZOFDATabular2016_TabularStandard.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1050998.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns Aggregate;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1050999.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns Aggregate;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1051624 Whipped Non-dairy Topping-AerosolCan.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Full;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1092790 Alfredo Sauce-Dedicated.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1102252 Barbacoa.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1132005_A.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns Aggregate;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1172087.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns Aggregate;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1172087_B.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns Aggregate;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR1191976 Philly Style - Sliced and Shaped 4 OZ 12 LB.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR889810 BEEF TAQUITOS-Carton.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR890444 BLUEBERRY FLAVORED FILLED PANCAKES HEAT & SERVE-Label.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Reduced;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR949857 SHREDDED BEEF MINI TAQUITOS-Label.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR949858 CHICKEN MINI TACOS-Label.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR949861 BEEF ENCHILADAS-Dedicated.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TR964028 Muenster Cheese Cubes-label.ai;FDA Nutrition Facts Tables;(GS1) U.S. Standard Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_1.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_2.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_3.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_4.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_5_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_5.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_6_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA_MAZO_11_6.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_3_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_4_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_5_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_5_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_6_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_1_6_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);1.x Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_2_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);2.x Narrow Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_2_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);2.x Narrow Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_2_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);2.x Narrow Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_2_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);2.x Narrow Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_2_3_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);2.x Narrow Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_2_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);2.x Narrow Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_2_4_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);2.x Narrow Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_2_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);2.x Narrow Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_3_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_4_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_5_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_5_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_6_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_6_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_7_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_3_7_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);3.x Bilingual Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_3_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_4_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_5_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_4_5_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);4.x Bilingual Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_3_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_4_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_5_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_5_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_6_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_5_6_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);5.x Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_3_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_4_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_5_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_5_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_6_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_6_6_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);6.x Bilingual Simplified Standard Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_7_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);7.x Bilingual Simplified Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_7_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);7.x Bilingual Simplified Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_7_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);7.x Bilingual Simplified Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_7_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);7.x Bilingual Simplified Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_7_3_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);7.x Bilingual Simplified Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_7_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);7.x Bilingual Simplified Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_7_4_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);7.x Bilingual Simplified Horizontal Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_7_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);7.x Bilingual Simplified Horizontal Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_01_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_01_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_02_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_02_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_03_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_03_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_04_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_04_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_05_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_05_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_06_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_9_BilingualDual_AllNutrients_06_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);9.x Bilingual Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_01_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_01_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_02_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_02_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_03_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_03_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_04_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_04_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_05_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_05_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_06_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_11_BilingualAggregate_AllNutrients_All_06_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);11.x Bilingual Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_16_Linear_AllNutrients.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);16.x Linear Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_01_English_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_01_French_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_02_English_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_02_French_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_03_English_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_03_French_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_04_English_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_04_French_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_05_English_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_05_French_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_06_English_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_20_06_French_StandardChildren_All_AllNutrients.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);20.x Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_21_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);21.x Narrow Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_21_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);21.x Narrow Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_21_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);21.x Narrow Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_21_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);21.x Narrow Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_21_3_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);21.x Narrow Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_21_3_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);21.x Narrow Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_21_4_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);21.x Narrow Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_21_4_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);21.x Narrow Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_3_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_3_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_4_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_4_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_5_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_5_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_6_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_6_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_7_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_22_7_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);22.x Bilingual Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_23_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);23.x Bilingual Horizontal Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_23_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);23.x Bilingual Horizontal Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_23_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);23.x Bilingual Horizontal Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_23_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);23.x Bilingual Horizontal Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_23_3_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);23.x Bilingual Horizontal Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_23_3_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);23.x Bilingual Horizontal Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_23_4_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);23.x Bilingual Horizontal Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_23_4_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);23.x Bilingual Horizontal Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_3_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_3_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_4_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_4_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_5_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_5_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_6_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_24_6_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);24.x Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_3_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_3_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_4_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_4_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_5_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_5_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_6_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_25_6_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);25.x Bilingual Simplified Standard Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\GS1_Bilingual_01.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\GS1_Bilingual_02.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\GS1_Bilingual_03.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\IPC_Bilingual_01.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\IPC_Bilingual_02.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\IPC_Bilingual_03.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Bilingual;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_01.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_02.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_03.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_04.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_05.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_06.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_07.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_08.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearGS1_09.ai;FDA Nutrition Facts Linear Tables 2016;U.S. Linear;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_01.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_02.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_03.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_04.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_05.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_06.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_07.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_08.ai;FDA Nutrition Facts Tabular Tables 2016;U.S. Tabular Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TabularLinearIPC_09.ai;FDA Nutrition Facts Linear Tables 2016;U.S. Linear;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ThreeColumnsGS1_01.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ThreeColumnsGS1_02.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ThreeColumnsGS1_03.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ThreeColumnsGS1_04.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ThreeColumnsIPC_01.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ThreeColumnsIPC_02.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ThreeColumnsIPC_03.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\ThreeColumnsIPC_04.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Three Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TwoColumnsGS1_01.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Two Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TwoColumnsGS1_02.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Two Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TwoColumnsGS1_03.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Two Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TwoColumnsGS1_04.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Two Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TwoColumnsIPC_01.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Two Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TwoColumnsIPC_02.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Two Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TwoColumnsIPC_03.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Two Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\TwoColumnsIPC_04.ai;FDA Nutrition Facts Multi-context Tables 2016;U.S. Vertical Two Columns, Same Food;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedGS1_01.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedGS1_02.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedGS1_03.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedGS1_04.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedGS1_05.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedGS1_06.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedGS1_07.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedIPC_01.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedIPC_02.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedIPC_03.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedIPC_04.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedIPC_05.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedIPC_06.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\VerticalStandardReducedSimplifiedIPC_07.ai;FDA Nutrition Facts Vertical Tables 2016;U.S. Vertical Standard;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_8_Dual_AllNutrients_All_01.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);8.x Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_8_Dual_AllNutrients_All_02.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);8.x Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_8_Dual_AllNutrients_All_03.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);8.x Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_8_Dual_AllNutrients_All_04.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);8.x Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_8_Dual_AllNutrients_All_05.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);8.x Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_8_Dual_AllNutrients_All_06.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);8.x Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_8_Dual_AllNutrients_All_07.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);8.x Dual Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_8_Dual_AllNutrients_All_08.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);8.x Dual Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_6_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_6_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_5_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_5_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_4_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_4_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_3_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_3_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_10_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);10.x Aggregate Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_16_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);16.x Linear Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_16_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);16.x Linear Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_16_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);16.x Linear Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_16_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);16.x Linear Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_17_2_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);17.x Simplified Linear Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_17_2_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);17.x Simplified Linear Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_17_2_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);17.x Simplified Linear Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_17_2_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);17.x Simplified Linear Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_17_1_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);17.x Simplified Linear Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_17_1_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);17.x Simplified Linear Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_17_1_French.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);17.x Simplified Linear Format;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_17_1_English.ai;CFIA Nutrition Facts Tables 2016 (Prerelease);17.x Simplified Linear Format;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_26_4_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);26.x Bilingual Simplified Horizontal Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_26_4_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);26.x Bilingual Simplified Horizontal Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_26_3_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);26.x Bilingual Simplified Horizontal Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_26_3_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);26.x Bilingual Simplified Horizontal Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_26_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);26.x Bilingual Simplified Horizontal Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_26_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);26.x Bilingual Simplified Horizontal Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_26_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);26.x Bilingual Simplified Horizontal Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_26_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);26.x Bilingual Simplified Horizontal Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_31_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);31.x Linear Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_31_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);31.x Linear Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_31_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);31.x Linear Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_31_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);31.x Linear Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_32_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);32.x Simplified Linear Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_32_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);32.x Simplified Linear Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_32_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);32.x Simplified Linear Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_MAZO_32_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);32.x Simplified Linear Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_3_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_3_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_4_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_4_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_5_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_5_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_6_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_27_Aggregate_Chldren_AllNutrients_27_6_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);27.x Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_1_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_1_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_2_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_2_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_3_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_3_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_4_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_4_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_5_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_5_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;French
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_6_English.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;
+RECOGNIZE;\\ESKW210614\Tab_BatchTesting\Source\Extract\CFIA2016_28_Bilingual_Aggregate_Children_AllNutrients_28_6_French.ai;CFIA Nutrition Facts Tables for Children 6 Months up to 1 Year 2016 (Prerelease);28.x Bilingual Aggregate Format for Children 6 Months up to 1 Year;French

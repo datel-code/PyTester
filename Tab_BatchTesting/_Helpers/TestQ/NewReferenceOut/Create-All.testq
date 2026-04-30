@@ -1,0 +1,4 @@
+INPUT=\\ESKW210614\Tab_BatchTesting\Reference\NewReferenceIn\Create-All 
+FILTER=*.pdf
+REFERENCE=\\ESKW210614\Tab_BatchTesting\Reference\Create-All 
+TASK=..\Render500

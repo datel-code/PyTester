@@ -1,0 +1,225 @@
+--- 2019-06-26 16:34:01 
+--- Staring script... 
+Batch UpdateAllPlugins started. 
+  
+--- 2019-06-26 16:34:01.27 
+Checking servers... 
+Checking presence of h:\DeskPack18_A5\buildnumber.txt 
+Servers seem to be connected. 
+Checking if Illustrator is running... 
+Checking if Illustrator is running. 1... 
+--- 2019-06-26 16:34:04.27 
+ 
+Copying plugins... 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\NDL Kernel 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\NDL Kernel 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\NDL Kernel\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Automated Testers 
+
+	                   8	h:\DeskPack18_A5\AI\Win_AI23\Esko\Automated Testers\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Trapping 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Trapping 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Trapping\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Viewer 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Viewer 
+
+	                   3	h:\DeskPack18_A5\AI\Win_AI23\Esko\Viewer\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Tables 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Tables 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Tables\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Marks 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Marks 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Marks\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Content 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Content 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Content\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Barcodes 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Barcodes 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Barcodes\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Dynamic Marks Core 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Dynamic Marks Core 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Dynamic Marks Core\
+*** Nothing to copy. 
+Skipping ai-cut...
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\ArtBrowser 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\ArtBrowser 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\ArtBrowser\
+	    New File  		  534528	ArtBrowser_WAI23r.aip
+--- Copied. 
+Skipping boostX...
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Channel Mapping 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Channel Mapping 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Channel Mapping\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\CHILI 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\CHILI 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\CHILI\
+*** Nothing to copy. 
+Skipping Collection...
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Color Engine 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Color Engine 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Color Engine\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Art 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Art 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Art\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Panels 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic Panels 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic Panels\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic VDP 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Dynamic VDP 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Dynamic VDP\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Image Extractor 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Image Extractor 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Image Extractor\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Image Optimize 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Image Optimize 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Image Optimize\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Instant Trapper 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Instant Trapper 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Instant Trapper\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Licensing 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Licensing 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Licensing\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Notes 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Notes 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Notes\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PDF Import 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PDF Import 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\PDF Import\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PitStop 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PitStop 
+
+	                   2	h:\DeskPack18_A5\AI\Win_AI23\Esko\PitStop\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerLayout 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PowerLayout 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerLayout\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerLayout Standalone 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PowerLayout Standalone 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerLayout Standalone\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerTrapper 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\PowerTrapper 
+
+	                   2	h:\DeskPack18_A5\AI\Win_AI23\Esko\PowerTrapper\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Preflight 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Preflight 
+
+	                   5	h:\DeskPack18_A5\AI\Win_AI23\Esko\Preflight\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Screening 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Screening 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Screening\
+*** Nothing to copy. 
+Skipping Seamless Repeat...
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Select by Attributes 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Select by Attributes 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Select by Attributes\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Text Recognition 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Text Recognition 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Text Recognition\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Thin Parts 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Thin Parts 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Thin Parts\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\TIFF Export 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\TIFF Export 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\TIFF Export\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Variable Data 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Variable Data 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Variable Data\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\WebCenter Connector 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\WebCenter Connector 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\WebCenter Connector\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\White Underprint 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\White Underprint 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\White Underprint\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Annotations 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Annotations 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Annotations\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\BrixKernel 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\BrixKernel 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\BrixKernel\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Customer Experience Program 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Customer Experience Program 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Customer Experience Program\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Ink Manager 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Ink Manager 
+
+	                   3	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Ink Manager\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Inspection Setup 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\Inspection Setup 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\Inspection Setup\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\MessageCenter 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\MessageCenter 
+
+	                   1	h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\MessageCenter\
+*** Nothing to copy. 
+Copying from h:\DeskPack18_A5\AI\Win_AI23\Esko\Data Exchange\PDF Export 
+to c:\Program Files\Adobe\Adobe Illustrator CC 2019\Plug-ins\Esko\Data Exchange\PDF Export 

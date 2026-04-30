@@ -1,0 +1,40 @@
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables;1.x Standard Format
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables;2.x Narrow Standard
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables;3.x Bilingual Standard
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables;4.x Bilingual Horizontal
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables;5.x Simplified Standard Format
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables;6.x Bilingual Simplified Standard Format
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables;7.x Bilingual Simplified Horizontal Format
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables for Children Under 2;20.x Standard Format for Children Under 2
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables for Children Under 2;22.x Bilingual Standard for Children Under 2
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC CFIA Test Data 2016 Triple Declaration en-fr.xml;CFIA Nutrition Facts Tables for Children Under 2;24.x Simplified Standard Format for Children Under 2
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables;(GS1) 1.x Standard Format
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables;(GS1) 2.x Narrow Standard
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables;(GS1) 3.x Bilingual Standard
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables;(GS1) 4.x Bilingual Horizontal
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables;(GS1) 5.x Simplified Standard Format
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables;(GS1) 6.x Bilingual Simplified Standard Format
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables;(GS1) 7.x Bilingual Simplified Horizontal Format
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables for Children Under 2;(GS1) 20.x Standard Format for Children Under 2
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables for Children Under 2;(GS1) 22.x Bilingual Standard for Children Under 2
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 CFIA Test Data 2016 Single Declaration.xml;CFIA Nutrition Facts Tables for Children Under 2;(GS1) 24.x Simplified Standard Format for Children Under 2
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables;U.S. Linear
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables;U.S. Standard Bilingual
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables;U.S. Standard Full
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables;U.S. Standard Reduced
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables;U.S. Standard Vertical Dual Declaration
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables;U.S. Tabular Full
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables;U.S. Tabular Reduced
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables;U.S. Standard Vertical Triple Declaration
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables for Children Under 4;U.S. Standard Full for Children Under 4
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT IPC FDA Test Data 2016 Triple Declaration en-es.xml;FDA Nutrition Facts Tables for Children Under 4;U.S. Standard Vertical Dual Declaration for Children Under 4
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables;(GS1) U.S. Linear
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables;(GS1) U.S. Standard Bilingual
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables;(GS1) U.S. Standard Full
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables;(GS1) U.S. Standard Reduced
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables;(GS1) U.S. Standard Vertical Dual Declaration
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Full
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables;(GS1) U.S. Tabular Reduced
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables;(GS1) U.S. Standard Vertical Triple Declaration
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables for Children Under 4;(GS1) U.S. Standard Full for Children Under 4
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 FDA Test Data 2016 MONO+FAMS Triple Declaration en-es Table.xml;FDA Nutrition Facts Tables for Children Under 4;(GS1) U.S. Standard Vertical Dual Declaration for Children Under 4

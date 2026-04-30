@@ -1,0 +1,2 @@
+TASK=..\Render300
+COMPARE=..\ImageCompare

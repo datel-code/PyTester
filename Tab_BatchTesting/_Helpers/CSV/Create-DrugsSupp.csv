@@ -1,0 +1,3 @@
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 DrugFactsTest Data-ALL.xml;FDA Drug Facts Tables (Prerelease);U.S. Drug Facts Table
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 DrugFactsTest Data-MINIMAL.xml;FDA Drug Facts Tables (Prerelease);U.S. Drug Facts Table
+CREATE;\\ESKW210614\Tab_BatchTesting\Source\Create\DT GS1 DrugFactsTest Data-Alka-Seltzer.xml;FDA Drug Facts Tables (Prerelease);U.S. Drug Facts Table
