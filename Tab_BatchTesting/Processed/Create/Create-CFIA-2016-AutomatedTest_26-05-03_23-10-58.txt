@@ -1,0 +1,11 @@
+Starting Dynamic Tables Tester
+ Date: 2026.05.03 23:10:58
+ Input format: Adobe Format
+ Output format: PDF+
+DT GS1 CFIA Test Data 2016 Single Declaration_0121_1.x Standard Format.ai	4	Dynamic Tables	Deprecated element MONOUNSATURATED_FAT was found and ignored in the linked XML file. Please use FAMS_NUTRIENT_VALUE instead.	
+DT GS1 CFIA Test Data 2016 Single Declaration_0122_2.x Narrow Standard Format.ai	4	Dynamic Tables	Deprecated element MONOUNSATURATED_FAT was found and ignored in the linked XML file. Please use FAMS_NUTRIENT_VALUE instead.	
+DT GS1 CFIA Test Data 2016 Single Declaration_0123_3.x Bilingual Standard Format.ai	4	Dynamic Tables	Deprecated element MONOUNSATURATED_FAT was found and ignored in the linked XML file. Please use FAMS_NUTRIENT_VALUE instead.	
+
+Automated Esko Tester finished
+ 4 file(s) processed
+ 0 file(s) failed
