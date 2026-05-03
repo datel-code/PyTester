@@ -1,0 +1,13 @@
+# PyTester dependencies
+
+# Configuration
+pyyaml>=6.0
+
+# XML processing
+lxml>=4.9.0
+
+# Windows COM automation (Windows only)
+pywin32>=306; platform_system=="Windows"
+
+# HTTP requests for Homer server
+requests>=2.28.0

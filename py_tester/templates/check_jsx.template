@@ -1,0 +1,20 @@
+#target illustrator-[[ai_version]]
+// Check script - returns scripter.testerRunning value
+// 1 = running, 0 = completed or error
+
+app.userInteractionLevel = UserInteractionLevel.DONTDISPLAYALERTS;
+
+try {
+    // Check if scripter exists and get running status
+    if (typeof scripter !== 'undefined' && scripter !== null) {
+        var running = scripter.testerRunning;
+        $.writeln("CHECK: testerRunning = " + running);
+        running;
+    } else {
+        $.writeln("CHECK: scripter not defined - assuming completed");
+        0;
+    }
+} catch(err) {
+    $.writeln("CHECK ERROR: " + err);
+    0; // Assume completed on error
+}

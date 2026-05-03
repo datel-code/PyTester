@@ -1,1 +1,0 @@
-if exist %APPDATA%\Adobe\Adobe Illustrator 26.1.0 Prerelease Settings\en_US\x64\DataRecovery del %APPDATA%\Adobe\Adobe Illustrator 26.1.0 Prerelease Settings\en_US\x64\DataRecovery\*.* /y
