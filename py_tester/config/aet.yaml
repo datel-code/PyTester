@@ -1,4 +1,6 @@
 # PyTester Configuration - Dynamic Tables Tester
+# Supports multi-platform via platform_overrides section.
+# Run with --platform darwin | windows | auto (default)
 
 system:
   root: "auto"
@@ -6,27 +8,60 @@ system:
   tester_folder: "Tab_BatchTesting"
   main_topic: "DynamicTables"
 
+# Default / shared Illustrator settings.
+# Values under platform_overrides will merge over these per-platform.
 illustrator:
   version: "30"
-  signature: "MAI30r"          # macOS: MAI, Windows: WAI
   com_name: "Illustrator.Application.30"
-  executable: "Illustrator.exe"
   plugin_name: "PDFExportTester"
-  plugin_search_paths:
-    - "/Applications/Adobe Illustrator 2026/Plug-ins.localized/Esko/Automated Testers"
-    - "/Applications/Adobe Illustrator 2026/Plug-ins/Esko/Automated Testers"
-    - "/Applications/Adobe Illustrator 2024/Plug-ins.localized/Esko/Automated Testers"
-    - "/Applications/Adobe Illustrator 2024/Plug-ins/Esko/Automated Testers"
+  # Fallback defaults (used if platform_overrides missing a key)
+  signature: "WAI30r"
+  executable: "Illustrator.exe"
+  plugin_search_paths: []
 
-# NMT Configuration
+# Default / shared NMT settings.
 nmt:
-  driver: "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestDriver"
-  reporter: "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestReporter"
   shared_tickets:
     - "ImageCompare.ticket"
     - "IRender500.ticket"
   tolerance: 0.01
   dpi: 300
+
+# ---------------------------------------------------------------------------
+# Platform-specific overrides (deep-merged over defaults above)
+# ---------------------------------------------------------------------------
+platform_overrides:
+  darwin:
+    illustrator:
+      signature: "MAI30r"
+      executable: "Adobe Illustrator 2026"
+      plugin_search_paths:
+        - "/Applications/Adobe Illustrator 2026/Plug-ins.localized/Esko/Automated Testers"
+        - "/Applications/Adobe Illustrator 2026/Plug-ins/Esko/Automated Testers"
+        - "/Applications/Adobe Illustrator 2024/Plug-ins.localized/Esko/Automated Testers"
+        - "/Applications/Adobe Illustrator 2024/Plug-ins/Esko/Automated Testers"
+    nmt:
+      driver: "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestDriver"
+      reporter: "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestReporter"
+      root: ""  # not used on macOS
+
+  windows:
+    illustrator:
+      signature: "WAI30r"
+      executable: "Illustrator.exe"
+      plugin_search_paths:
+        - "C:/Program Files/Adobe/Adobe Illustrator 2026/Plug-ins/Esko/Automated Testers"
+        - "C:/Program Files/Adobe/Adobe Illustrator 2024/Plug-ins/Esko/Automated Testers"
+    nmt:
+      # Set root to the folder that contains NDLModelTest.app
+      # Example: "C:/Program Files/NDLModelTest"
+      # If empty, falls back to NMTROOT env var or common paths.
+      root: "C:\\Esko\\bg_prog_ndlmodeltest_v260\\NDLModelTest.app\\Contents\\Windows"
+      # driver / reporter are auto-derived from root on Windows:
+      #   root + "NDLModelTest.app/Contents/Windows/NDLModelTestDriver.exe"
+      # Leave driver/reporter blank here unless you need a custom path.
+      driver: "NDLModelTestDriver.exe"
+      reporter: "NDLModelTestReporter.exe"
 
 actions:
   CREATE:

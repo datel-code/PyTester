@@ -4,7 +4,9 @@
 Entry point for the Dynamic Tables testing workflow.
 
 Usage:
-    python main.py                    # Automatic mode (default)
+    python main.py                    # Automatic mode (default), auto-detect platform
+    python main.py --platform windows # Force Windows platform
+    python main.py --platform darwin  # Force macOS platform
     python main.py --manual           # Manual mode - confirm each step
     python main.py --csv tasks.csv    # Specific CSV only
     python main.py --dry-run          # Simulate without AI
@@ -31,11 +33,12 @@ def parse_args() -> argparse.Namespace:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  %(prog)s                           # Automatic mode (default)
-  %(prog)s --manual                  # Manual mode - confirm each step
-  %(prog)s --config my_config.yaml   # Custom config
-  %(prog)s --csv tasks.csv           # Specific CSV only
-  %(prog)s --dry-run                 # Simulate without AI
+  %(prog)s                           # Auto-detect platform
+  %(prog)s --platform windows          # Force Windows
+  %(prog)s --platform darwin          # Force macOS
+  %(prog)s --manual                   # Manual mode
+  %(prog)s --csv tasks.csv            # Specific CSV only
+  %(prog)s --dry-run                  # Simulate without AI
         """
     )
 
@@ -54,6 +57,13 @@ Examples:
     parser.add_argument(
         "--csv",
         help="Process only specific CSV file from tickets directory"
+    )
+
+    parser.add_argument(
+        "--platform",
+        choices=["auto", "darwin", "windows"],
+        default="auto",
+        help="Target platform: auto (default), darwin (macOS), windows"
     )
 
     parser.add_argument(
@@ -89,6 +99,7 @@ def main() -> int:
     logger.debug(f"Script directory: {SCRIPT_DIR}")
     logger.debug(f"Config path: {config_path}")
     logger.debug(f"Config exists: {config_path.exists()}")
+    logger.debug(f"Platform: {args.platform}")
 
     if not config_path.exists():
         logger.error(f"Configuration file not found: {config_path}")
@@ -99,7 +110,8 @@ def main() -> int:
         orchestrator = TabTesterOrchestrator(
             config_path=str(config_path),
             script_dir=SCRIPT_DIR,
-            manual_mode=args.manual  # Pass manual flag
+            manual_mode=args.manual,
+            platform=args.platform
         )
         success = orchestrator.run(
             topic=args.topic,

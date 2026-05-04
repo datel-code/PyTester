@@ -1,7 +1,6 @@
 # Illustrator controller - multiplatform COM/AppleScript interface
 
 import logging
-import platform
 import subprocess
 import time
 from pathlib import Path
@@ -18,23 +17,34 @@ class IllustratorController:
     - macOS: AppleScript via osascript
     """
 
-    def __init__(self, config: dict):
+    def __init__(self, config: dict, platform: Optional[str] = None):
         self.config = config
         self.version = config["version"]
         self.com_name = config["com_name"]
         self.executable = config["executable"]
+        self.platform = platform or self._detect_platform()
         self._platform_controller: Optional["BaseIllustratorController"] = None
         self._app = None
 
+    def _detect_platform(self) -> str:
+        """Auto-detect platform if not provided."""
+        import platform as sys_platform
+        system = sys_platform.system()
+        if system == "Darwin":
+            return "darwin"
+        elif system == "Windows":
+            return "windows"
+        else:
+            raise OSError(f"Unsupported platform: {system}")
+
     def _get_controller(self):
         if self._platform_controller is None:
-            system = platform.system()
-            if system == "Windows":
+            if self.platform == "windows":
                 self._platform_controller = WindowsIllustratorController(self.config)
-            elif system == "Darwin":
+            elif self.platform == "darwin":
                 self._platform_controller = MacIllustratorController(self.config)
             else:
-                raise OSError(f"Unsupported platform: {system}")
+                raise OSError(f"Unsupported platform: {self.platform}")
         return self._platform_controller
 
     def run_jsx(self, jsx_path: Path, timeout: int = 3600) -> bool:

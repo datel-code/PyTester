@@ -3,8 +3,8 @@
 import logging
 from pathlib import Path
 from typing import Optional
-from datetime import datetime
-import platform
+from datetime import datetime, timedelta
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -47,7 +47,7 @@ try {
     $.writeln("Plugin loaded");
 } catch (error) {
     $.writeln("ERROR: " + error);
-    alert("PDFExportTester plugin not found!\\nError: " + error);
+    alert("PDFExportTester plugin not found!\nError: " + error);
     throw error;
 }
 
@@ -78,21 +78,46 @@ try {
     scripter.testPDFExport();
     $.writeln("Completed");
 } catch (error) {
-    alert("testPDFExport failed!\\n" + error);
+    alert("testPDFExport failed!\n" + error);
     throw error;
 }
 """
 
-    def __init__(self, config: dict, paths: dict):
+    def __init__(
+        self,
+        config: dict,
+        paths: dict,
+        platform: Optional[str] = None
+    ):
         self.config = config
         self.paths = paths
         self.ai_config = config["illustrator"]
         self.test_defaults = config.get("test_defaults", {})
+        self.platform = platform or self._detect_platform()
+
+    def _detect_platform(self) -> str:
+        """Auto-detect platform if not provided."""
+        import platform as sys_platform
+        system = sys_platform.system()
+        if system == "Darwin":
+            return "darwin"
+        elif system == "Windows":
+            return "windows"
+        else:
+            raise OSError(f"Unsupported platform: {system}")
 
     def generate_wrapper(self, task, output_dir: Optional[Path] = None) -> Path:
+        """Generate a JSX wrapper file for the given task.
+
+        Cleans up old wrappers before generating a new one to prevent
+        accumulation of temporary files.
+        """
         if output_dir is None:
             output_dir = Path(self.paths["logs"]) / "jsx_wrappers"
         output_dir.mkdir(parents=True, exist_ok=True)
+
+        # Clean up stale wrappers before creating a new one
+        self.cleanup_old_wrappers(max_age_hours=1, wrapper_dir=output_dir)
 
         params = self._build_params(task)
 
@@ -102,13 +127,12 @@ try {
 
         jsx_content = self._replace_placeholders(self.JSX_TEMPLATE, params)
 
-        # Verify no unreplaced placeholders
-        import re
+        # Verify no unreplaced placeholders remain
         unreplaced = re.findall(r'\[\[[a-zA-Z_]+\]\]', jsx_content)
         if unreplaced:
             logger.error(f"Unreplaced placeholders: {unreplaced}")
 
-        # Verify no double dots
+        # Safety check for double dots in plugin extension
         if "..aip" in jsx_content:
             logger.error("Double dot found in JSX! Fixing...")
             jsx_content = jsx_content.replace("..aip", ".aip")
@@ -122,6 +146,7 @@ try {
         return jsx_path
 
     def _build_params(self, task) -> dict:
+        """Build parameter dictionary for JSX template substitution."""
         defaults = self.test_defaults
 
         output_folder = self.paths["processed"]
@@ -131,7 +156,7 @@ try {
         return {
             "ai_version": self.ai_config["version"],
             "ai_signature": self.ai_config["signature"],
-            "platform": platform.system(),
+            "platform": self.platform,
             "tester_name": task.tester_name,
             # KEY FIX: Use testerParametersFile instead of ticketsFolder
             "tester_parameters_file": self._escape_path(task.csv_path),
@@ -152,24 +177,34 @@ try {
         }
 
     def _build_plugin_paths(self) -> str:
+        """Build plugin search path string for the current platform."""
         paths = self.ai_config.get("plugin_search_paths", [])
 
-        if platform.system() == "Darwin":
+        if self.platform == "darwin":
             return ";".join(paths)
         else:
-            return ";".join(p.replace("/", "\\\\") for p in paths)
+            # Windows: ensure backslashes are doubled for JSX string literals
+            return ";".join(p.replace("/", "\\") for p in paths)
 
     def _escape_path(self, path: Optional[Path]) -> str:
+        """Escape a filesystem path for safe use inside a JSX string literal.
+
+        On Windows: backslashes must be doubled (\ -> \\\\ inside the string).
+        On macOS: paths are forward-slash and need no escaping.
+        """
         if path is None:
             return ""
         path_str = str(path)
 
-        if platform.system() == "Darwin":
+        if self.platform == "darwin":
             return path_str
         else:
-            return path_str.replace("\\\\", "\\\\\\\\\\\\\\\\")
+            # Windows: each backslash becomes two backslashes.
+            # In the final JSX file this renders as a single escaped backslash.
+            return path_str.replace("\", "\\")
 
     def _replace_placeholders(self, template: str, params: dict) -> str:
+        """Replace [[key]] placeholders in template with values from params."""
         result = template
         for key, value in params.items():
             placeholder = f"[[{key}]]"
@@ -179,21 +214,37 @@ try {
                 logger.warning(f"Placeholder not found: {placeholder}")
         return result
 
-    def cleanup_old_wrappers(self, max_age_hours: int = 24) -> int:
-        wrapper_dir = Path(self.paths["logs"]) / "jsx_wrappers"
+    def cleanup_old_wrappers(
+        self,
+        max_age_hours: int = 24,
+        wrapper_dir: Optional[Path] = None
+    ) -> int:
+        """Delete JSX wrapper files older than max_age_hours.
+
+        Args:
+            max_age_hours: Age threshold in hours.
+            wrapper_dir: Directory to clean. Defaults to logs/jsx_wrappers.
+
+        Returns:
+            Number of deleted files.
+        """
+        if wrapper_dir is None:
+            wrapper_dir = Path(self.paths["logs"]) / "jsx_wrappers"
         if not wrapper_dir.exists():
             return 0
 
-        from datetime import timedelta
         cutoff = datetime.now() - timedelta(hours=max_age_hours)
         deleted = 0
 
         for jsx_file in wrapper_dir.glob("wrapper_*.jsx"):
-            if datetime.fromtimestamp(jsx_file.stat().st_mtime) < cutoff:
-                try:
+            try:
+                mtime = datetime.fromtimestamp(jsx_file.stat().st_mtime)
+                if mtime < cutoff:
                     jsx_file.unlink()
                     deleted += 1
-                except OSError:
-                    pass
+            except OSError:
+                pass
 
+        if deleted:
+            logger.info(f"Cleaned up {deleted} old JSX wrapper(s)")
         return deleted

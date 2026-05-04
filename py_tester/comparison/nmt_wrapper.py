@@ -15,25 +15,87 @@ class NMTWrapper:
     Replaces CMPNMT.bat functionality.
     Uses NDLModelTestDriver and NDLModelTestReporter.
 
-    Paths:
-    - macOS: /Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestDriver
-    - Windows: NMTROOT\\NDLModelTest.app\\Contents\\Windows\\NDLModelTestDriver.exe
+    Paths resolved per-platform from config (platform_overrides merged
+    by orchestrator before this class is instantiated).
     """
 
-    def __init__(self, config: Dict[str, Any], paths: Dict[str, Path]):
+    def __init__(
+        self,
+        config: Dict[str, Any],
+        paths: Dict[str, Path],
+        platform: Optional[str] = None
+    ):
         self.config = config
         self.paths = paths
         self.comparison_config = config.get("comparison", {})
+        self.nmt_config = config.get("nmt", {})
+        self.platform = platform or self._detect_platform()
 
-        # Determine platform-specific paths
-        import platform
-        if platform.system() == "Darwin":
-            self.nmt_driver = "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestDriver"
-            self.nmt_reporter = "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestReporter"
+        # Resolve driver / reporter paths per platform
+        if self.platform == "darwin":
+            self.nmt_driver = self.nmt_config.get(
+                "driver",
+                "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestDriver"
+            )
+            self.nmt_reporter = self.nmt_config.get(
+                "reporter",
+                "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestReporter"
+            )
+        elif self.platform == "windows":
+            nmt_root = self.nmt_config.get("root", "")
+            if not nmt_root:
+                nmt_root = self._find_nmt_root_windows()
+            # Build full paths from root if custom driver/reporter not set
+            custom_driver = self.nmt_config.get("driver", "")
+            custom_reporter = self.nmt_config.get("reporter", "")
+            if custom_driver:
+                self.nmt_driver = custom_driver
+            else:
+                self.nmt_driver = nmt_root + "\\NDLModelTest.app\\Contents\\Windows\\NDLModelTestDriver.exe"
+            if custom_reporter:
+                self.nmt_reporter = custom_reporter
+            else:
+                self.nmt_reporter = nmt_root + "\\NDLModelTest.app\\Contents\\Windows\\NDLModelTestReporter.exe"
         else:
-            nmt_root = config.get("nmt_root", "")
-            self.nmt_driver = nmt_root + "\\NDLModelTest.app\\Contents\\Windows\\NDLModelTestDriver.exe"
-            self.nmt_reporter = nmt_root + "\\NDLModelTest.app\\Contents\\Windows\\NDLModelTestReporter.exe"
+            raise OSError(f"Unsupported platform for NMT: {self.platform}")
+
+        logger.debug(f"NMT driver: {self.nmt_driver}")
+        logger.debug(f"NMT reporter: {self.nmt_reporter}")
+
+    def _detect_platform(self) -> str:
+        """Auto-detect platform if not provided."""
+        import platform as sys_platform
+        system = sys_platform.system()
+        if system == "Darwin":
+            return "darwin"
+        elif system == "Windows":
+            return "windows"
+        else:
+            raise OSError(f"Unsupported platform: {system}")
+
+    def _find_nmt_root_windows(self) -> str:
+        """Attempt to locate NMT installation on Windows.
+
+        Checks common installation paths and NMTROOT environment variable.
+        """
+        import os
+        env_root = os.environ.get("NMTROOT", "")
+        if env_root:
+            return env_root
+
+        # Common installation paths
+        candidates = [
+            Path("C:/Program Files/NDLModelTest"),
+            Path("C:/Program Files (x86)/NDLModelTest"),
+            Path("C:/NDLModelTest"),
+        ]
+        for candidate in candidates:
+            driver = candidate / "NDLModelTest.app/Contents/Windows/NDLModelTestDriver.exe"
+            if driver.exists():
+                return str(candidate)
+
+        logger.warning("NMT root not found on Windows. Set nmt.root in config or NMTROOT env var.")
+        return ""
 
     def compare_task(
         self,
@@ -45,15 +107,40 @@ class NMTWrapper:
         """Compare candidate vs reference using NMT.
 
         Args:
-            candidate: Path to processed output file
-            reference: Path to reference file
-            task_name: Name for this comparison task
-            testq_template: Optional TestQ template file
+            candidate: Path to processed output file.
+            reference: Path to reference file.
+            task_name: Name for this comparison task.
+            testq_template: Optional TestQ template file.
 
         Returns:
-            Dictionary with comparison results
+            Dictionary with comparison results.
         """
         logger.info(f"NMT comparison: {task_name}")
+
+        # Validate inputs exist before running NMT
+        if not candidate.exists():
+            logger.error(f"Candidate file missing: {candidate}")
+            return {
+                "task_name": task_name,
+                "success": False,
+                "error": f"Candidate file missing: {candidate}"
+            }
+        if not reference.exists():
+            logger.error(f"Reference file missing: {reference}")
+            return {
+                "task_name": task_name,
+                "success": False,
+                "error": f"Reference file missing: {reference}"
+            }
+
+        # Validate NMT driver exists
+        if not Path(self.nmt_driver).exists():
+            logger.error(f"NMT driver not found: {self.nmt_driver}")
+            return {
+                "task_name": task_name,
+                "success": False,
+                "error": f"NMT driver not found: {self.nmt_driver}"
+            }
 
         # Generate TestQ file
         testq_path = self._generate_testq(
@@ -125,11 +212,11 @@ class NMTWrapper:
     ) -> Path:
         """Generate TestQ XML file for comparison.
 
-        Uses shared ticket files:
+        Uses shared ticket files if available:
         - ImageCompare.ticket
         - IRender500.ticket
 
-        Or creates basic comparison task.
+        Or creates a basic comparison task.
         """
         root = ET.Element("testq")
         root.set("version", "1.0")
@@ -191,6 +278,11 @@ class NMTWrapper:
     def _generate_report(self, testq_path: Path) -> Optional[Path]:
         """Generate HTML report from TestQ results."""
         try:
+            # Validate reporter exists
+            if not Path(self.nmt_reporter).exists():
+                logger.warning(f"NMT reporter not found: {self.nmt_reporter}")
+                return None
+
             report_path = testq_path.with_suffix(".report.html")
 
             cmd = [
@@ -238,21 +330,28 @@ class ComparisonOrchestrator:
         """Compare all processed files against references.
 
         Args:
-            processed_files: List of processed output files
+            processed_files: List of processed output files.
 
         Returns:
-            List of comparison results
+            List of comparison results.
         """
         results = []
 
         for proc_file in processed_files:
             # Determine reference path based on action subfolder
             relative = proc_file.relative_to(self.paths["processed"])
-            ref_file = self.paths.get("reference", 
-                self.paths["processed"].parent / "Reference") / relative
+            ref_file = self.paths.get("reference",
+                                      self.paths["processed"].parent / "Reference") / relative
 
             if not ref_file.exists():
                 logger.warning(f"Reference not found: {ref_file}")
+                results.append({
+                    "task_name": proc_file.stem,
+                    "success": False,
+                    "error": "Reference file missing",
+                    "candidate": proc_file,
+                    "reference": ref_file
+                })
                 continue
 
             result = self.nmt.compare_task(
