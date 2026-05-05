@@ -15,7 +15,7 @@ illustrator:
   com_name: "Illustrator.Application.30"
   plugin_name: "PDFExportTester"
   # Fallback defaults (used if platform_overrides missing a key)
-  signature: "WAI30r"
+  signature: "MAI30r"
   executable: "Illustrator.exe"
   plugin_search_paths: []
 
@@ -23,7 +23,7 @@ illustrator:
 nmt:
   shared_tickets:
     - "ImageCompare.ticket"
-    - "IRender500.ticket"
+    - "Render500.ticket"
   tolerance: 0.01
   dpi: 300
 
@@ -38,8 +38,6 @@ platform_overrides:
       plugin_search_paths:
         - "/Applications/Adobe Illustrator 2026/Plug-ins.localized/Esko/Automated Testers"
         - "/Applications/Adobe Illustrator 2026/Plug-ins/Esko/Automated Testers"
-        - "/Applications/Adobe Illustrator 2024/Plug-ins.localized/Esko/Automated Testers"
-        - "/Applications/Adobe Illustrator 2024/Plug-ins/Esko/Automated Testers"
     nmt:
       driver: "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestDriver"
       reporter: "/Applications/NDLModelTest.app/Contents/MacOS/NDLModelTestReporter"
@@ -51,17 +49,17 @@ platform_overrides:
       executable: "Illustrator.exe"
       plugin_search_paths:
         - "C:/Program Files/Adobe/Adobe Illustrator 2026/Plug-ins/Esko/Automated Testers"
-        - "C:/Program Files/Adobe/Adobe Illustrator 2024/Plug-ins/Esko/Automated Testers"
+        - "c:/Program Files/Adobe/Adobe Illustrator (Beta)/Plug-ins/Esko/Automated Testers"
     nmt:
       # Set root to the folder that contains NDLModelTest.app
       # Example: "C:/Program Files/NDLModelTest"
       # If empty, falls back to NMTROOT env var or common paths.
-      root: "C:\\Esko\\bg_prog_ndlmodeltest_v260\\NDLModelTest.app\\Contents\\Windows"
+      root: ""
       # driver / reporter are auto-derived from root on Windows:
       #   root + "NDLModelTest.app/Contents/Windows/NDLModelTestDriver.exe"
       # Leave driver/reporter blank here unless you need a custom path.
-      driver: "NDLModelTestDriver.exe"
-      reporter: "NDLModelTestReporter.exe"
+      driver: ""
+      reporter: ""
 
 actions:
   CREATE:

@@ -177,31 +177,34 @@ try {
         }
 
     def _build_plugin_paths(self) -> str:
-        """Build plugin search path string for the current platform."""
-        paths = self.ai_config.get("plugin_search_paths", [])
+        """Build plugin search path string for the current platform.
 
+        On Windows: converts forward slashes to backslashes and doubles them
+        for correct JSX string literal escaping (\\ in source → \ in string).
+        On macOS: joins paths as-is.
+        """
+        paths = self.ai_config.get("plugin_search_paths", [])
         if self.platform == "darwin":
             return ";".join(paths)
         else:
-            # Windows: ensure backslashes are doubled for JSX string literals
-            return ";".join(p.replace("/", "\\") for p in paths)
+            # Windows: / → \, then \ → \\, so JSX renders as C:\Program Files\...
+            return ";".join(p.replace("/", "\\").replace("\\", "\\\\") for p in paths)
 
     def _escape_path(self, path: Optional[Path]) -> str:
         """Escape a filesystem path for safe use inside a JSX string literal.
 
-        On Windows: backslashes must be doubled (\ -> \\\\ inside the string).
-        On macOS: paths are forward-slash and need no escaping.
+        On Windows: doubles backslashes so JSX renders them correctly
+        (\\ in source → \ in the actual string value).
+        On macOS: returns path unchanged.
         """
         if path is None:
             return ""
         path_str = str(path)
-
         if self.platform == "darwin":
             return path_str
         else:
-            # Windows: each backslash becomes two backslashes.
-            # In the final JSX file this renders as a single escaped backslash.
-            return path_str.replace("\", "\\")
+            # Windows: double backslashes for JSX string literal escaping
+            return path_str.replace("\\", "\\\\")
 
     def _replace_placeholders(self, template: str, params: dict) -> str:
         """Replace [[key]] placeholders in template with values from params."""
